@@ -26,7 +26,7 @@ class DataPointAPI extends DataSource {
   }
 
   async getDataPoints() {
-    return db.many('SELECT * FROM data_points');
+    return db.many('SELECT * FROM data_points INNER JOIN sensors ON data_points.sensor_id = sensor.id');
   }
 
   async getDataPointsByType(data) {
@@ -58,7 +58,7 @@ class SensorAPI extends DataSource {
     }
   
     async getSensor(id) {
-      return db.oneOrNone('SELECT * FROM sensors WHERE id = $(id)', {
+      return db.oneOrNone('SELECT * FROM sensors WHERE id = $(id) INNER JOIN data_points ON sensors.id = data_points.sensor_id', {
         id: id
       });
       }

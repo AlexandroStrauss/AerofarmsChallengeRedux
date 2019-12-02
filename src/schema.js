@@ -25,7 +25,7 @@ type Query {
     sensor: Sensor
     dataPoint: DataPoint
     sensors: [Sensor]
-    dataPoints: [DataPoint]
+    dataPoints: [DataPoint]!
     dataPointsByType(data_type: String!, ids: [ID]!): [DataPoint]
     temperatureDataPoints: [DataPoint]
 }
