@@ -17,8 +17,20 @@ const server = new ApolloServer({
       DataPointAPI: new DataPointAPI({store}),
       SensorAPI: new SensorAPI({store}),
     };
-  }
+  },
+  formatError: error => {
+    console.log("===================== Error: =====================");
+    console.log(error);
+    return error;
+},
+formatResponse: response => {
+    // console.log("===================== Response: ==================");
+    // console.log(response);
+    return response;
+},
+
 });
+
 
 server.applyMiddleware({ app });
 

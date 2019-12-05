@@ -26,8 +26,9 @@ type Query {
     dataPoint: DataPoint
     sensors: [Sensor]
     dataPoints: [DataPoint]!
-    dataPointsByType(data_type: String!, ids: [ID]!): [DataPoint]
+    dataPointsByType(data_type: String!, ids: [ID]): [DataPoint]
     temperatureDataPoints: [DataPoint]
+    dataPointsFromSensor(id: ID!): [DataPoint]
 }
 `;
 
@@ -50,8 +51,26 @@ const resolvers = {
         },
         temperatureDataPoints: async(_source, _, { dataSources }) => {
             return dataSources.DataPointAPI.getTemperatureDataPoints();
+        },
+        dataPointsFromSensor: async(_source, {id}, { dataSources }) => {
+            return dataSources.DataPointAPI.getDataPointsFromSensor(id);
         }
     },
+    Sensor: {
+        id: sensor => sensor.id,
+        location: sensor => sensor.location,
+
+        dataPoints: async (_source, _, {dataSources}) => {
+            const response = await dataSources.DataPointAPI.getDataPointsFromSensor(_source.id);
+            return response;
+        },
+        __resolveReference(sensor) {
+            return getSensor(sensor.id);
+        }
+    },
+    // DataPoint: {
+        
+    // }
 };
 
 export {typeDefs, resolvers};

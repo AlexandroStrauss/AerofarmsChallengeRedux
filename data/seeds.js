@@ -8,8 +8,12 @@ const db = pgp(dbConfig)
 // const pg = require('pg');
 const fs = require('fs'); // this is necessary for reading files and I keep forgetting that it is
 
+// db.none('DROP TABLE data_points').then(db.none('DROP TABLE sensors'));
+
 let dataPoints = JSON.parse(fs.readFileSync('../data/sensor_data.json', 'utf8'));
-db.none('DELETE FROM data_points').then(
+
+// pgp.helpers.insert(data_points, ['id', 'sensor_id', 'date', 'data_type', 'value', 'type_code'], 'data_points')
+// db.none('CREATE TABLE data_points').then(
     dataPoints.forEach(point => {
         db.none('INSERT INTO data_points(id, sensor_id, date, data_type, value, type_code) VALUES($(point.id), $(point.sensor_id), $(point.time), $(point.data_type), $(point.value), $(point.type_code))', {
             point: point,
@@ -19,10 +23,12 @@ db.none('DELETE FROM data_points').then(
             //error;
         });
     })
-)
+// )
 
 let sensors = JSON.parse(fs.readFileSync('../data/sensor_list.json', 'utf8'));
-db.none('DELETE FROM sensors').then(
+
+// pgp.helpers.insert(sensors, ['id', 'location'], 'sensors')
+// db.none('CREATE TABLE sensors').then(
         sensors.forEach(sensor => {
         db.none('INSERT INTO sensors(id, location) VALUES($(sensor.id), $(sensor.location))', {
             sensor: sensor,
@@ -33,8 +39,7 @@ db.none('DELETE FROM sensors').then(
             //error;
         })
     })
-)
-
+// )
 
 // CREATE TABLE data_points (
 //          id integer NOT NULL PRIMARY KEY,
@@ -45,8 +50,7 @@ db.none('DELETE FROM sensors').then(
 //          type_code integer
 //      );
 
-
-//       CREATE TABLE sensors(
-//          id INTEGER NOT NULL PRIMARY KEY,
-//          location VARCHAR(20)
-//      );
+//   CREATE TABLE sensors(
+//      id INTEGER NOT NULL PRIMARY KEY,
+//      location VARCHAR(20)
+//  );
