@@ -1,7 +1,9 @@
+import DataLoader from 'dataloader';
+
 const { ApolloServer, gql } = require('apollo-server-express');
 let fs = require('fs');
 const pg = require('pg');
-const {DataPointAPI, SensorAPI} = require('../data/database');
+const {DataPointAPI, SensorAPI} = require('../data/datasource');
 
 
 const typeDefs = gql`
@@ -61,16 +63,30 @@ const resolvers = {
         location: sensor => sensor.location,
 
         dataPoints: async (_source, _, {dataSources}) => {
-            const response = await dataSources.DataPointAPI.getDataPointsFromSensor(_source.id);
+            const response = await dataSources.DataPointAPI.sensorDataPointLoader.load(_source.id)
             return response;
         },
         __resolveReference(sensor) {
             return getSensor(sensor.id);
         }
     },
-    // DataPoint: {
+    DataPoint: {
+        id: dataPoint => dataPoint.id,
+        value: dataPoint => dataPoint.value,
+        type_code: dataPoint => dataPoint.type_code,
+        data_type: dataPoint => dataPoint.data_type,
+        date: dataPoint => dataPoint.date,
+        sensor_id: dataPoint => dataPoint.sensor_id,
+
+        sensor: async(_source, _, {dataSources}) => {
+            const response = await dataSources.SensorAPI.getSensor(_source.sensor_id);
+            return response;
+        },
+        __resolveReference(dataPoint) {
+            return getDataPoint(dataPoint.id);
+        }
         
-    // }
+    }
 };
 
 export {typeDefs, resolvers};

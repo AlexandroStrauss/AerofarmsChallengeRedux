@@ -1,9 +1,11 @@
+require('dotenv').config();
 
 const { ApolloServer, gql } = require('apollo-server-express');
 const { typeDefs, resolvers } = require('./schema');
 const express = require('express');
 const app = express();
-const {DataPointAPI, SensorAPI} = require('../data/database')
+const {DataPointAPI, SensorAPI} = require('../data/datasource');
+
 
 const { createDataStore } = require('../data/datastore');
 // this instantiates the data store (which contains pg-promise functions)
