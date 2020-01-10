@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div
+  className="main-container"
+>
+  loading
+  <div
+    id="component-container"
+  >
+    loading
+  </div>
+</div>
+`;

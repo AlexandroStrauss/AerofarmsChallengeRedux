@@ -1,0 +1,16 @@
+  
+{
+    "loading": "Loading...",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "error": "Error :(",
+    "sensor": "Sensor",
+    "rooms": {
+      "both": "Both Rooms",
+      "grow": "Grow Room",
+      "harvest": "Harvest Room"
+    },
+    "dataTypeDisplayed": "Displaying <1> {{val}} </1> data for...",
+    "showingData": "Displaying",
+    "dataFor": "data for..."
+  }

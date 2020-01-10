@@ -1,0 +1,8162 @@
+[
+    {
+      "id": 1,
+      "sensor_id": 5,
+      "time": "2019-07-13 11:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.5
+    },
+    {
+      "id": 2,
+      "sensor_id": 6,
+      "time": "2019-07-13 11:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.4
+    },
+    {
+      "id": 3,
+      "sensor_id": 4,
+      "time": "2019-07-13 12:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.3
+    },
+    {
+      "id": 4,
+      "sensor_id": 6,
+      "time": "2019-07-13 12:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.4
+    },
+    {
+      "id": 5,
+      "sensor_id": 6,
+      "time": "2019-07-13 12:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.3
+    },
+    {
+      "id": 6,
+      "sensor_id": 4,
+      "time": "2019-07-13 12:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.5
+    },
+    {
+      "id": 7,
+      "sensor_id": 4,
+      "time": "2019-07-13 13:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.7
+    },
+    {
+      "id": 8,
+      "sensor_id": 7,
+      "time": "2019-07-13 13:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.4
+    },
+    {
+      "id": 9,
+      "sensor_id": 5,
+      "time": "2019-07-13 13:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.2
+    },
+    {
+      "id": 10,
+      "sensor_id": 5,
+      "time": "2019-07-13 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.4
+    },
+    {
+      "id": 11,
+      "sensor_id": 4,
+      "time": "2019-07-13 14:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.1
+    },
+    {
+      "id": 12,
+      "sensor_id": 6,
+      "time": "2019-07-13 14:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.5
+    },
+    {
+      "id": 13,
+      "sensor_id": 6,
+      "time": "2019-07-13 14:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.8
+    },
+    {
+      "id": 14,
+      "sensor_id": 5,
+      "time": "2019-07-13 14:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.6
+    },
+    {
+      "id": 15,
+      "sensor_id": 5,
+      "time": "2019-07-13 15:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.7
+    },
+    {
+      "id": 16,
+      "sensor_id": 4,
+      "time": "2019-07-13 15:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.4
+    },
+    {
+      "id": 17,
+      "sensor_id": 6,
+      "time": "2019-07-13 15:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.8
+    },
+    {
+      "id": 18,
+      "sensor_id": 5,
+      "time": "2019-07-13 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.8
+    },
+    {
+      "id": 19,
+      "sensor_id": 4,
+      "time": "2019-07-13 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.2
+    },
+    {
+      "id": 20,
+      "sensor_id": 5,
+      "time": "2019-07-13 16:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.9
+    },
+    {
+      "id": 21,
+      "sensor_id": 7,
+      "time": "2019-07-13 16:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.5
+    },
+    {
+      "id": 22,
+      "sensor_id": 6,
+      "time": "2019-07-13 16:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64
+    },
+    {
+      "id": 23,
+      "sensor_id": 7,
+      "time": "2019-07-13 17:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.8
+    },
+    {
+      "id": 24,
+      "sensor_id": 5,
+      "time": "2019-07-13 17:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.4
+    },
+    {
+      "id": 25,
+      "sensor_id": 7,
+      "time": "2019-07-13 17:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.6
+    },
+    {
+      "id": 26,
+      "sensor_id": 4,
+      "time": "2019-07-13 17:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66
+    },
+    {
+      "id": 27,
+      "sensor_id": 5,
+      "time": "2019-07-13 18:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.3
+    },
+    {
+      "id": 28,
+      "sensor_id": 5,
+      "time": "2019-07-13 18:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.1
+    },
+    {
+      "id": 29,
+      "sensor_id": 7,
+      "time": "2019-07-13 18:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.7
+    },
+    {
+      "id": 30,
+      "sensor_id": 5,
+      "time": "2019-07-13 18:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.9
+    },
+    {
+      "id": 31,
+      "sensor_id": 6,
+      "time": "2019-07-13 19:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.2
+    },
+    {
+      "id": 32,
+      "sensor_id": 7,
+      "time": "2019-07-13 19:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69
+    },
+    {
+      "id": 33,
+      "sensor_id": 6,
+      "time": "2019-07-13 19:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.5
+    },
+    {
+      "id": 34,
+      "sensor_id": 5,
+      "time": "2019-07-13 19:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49
+    },
+    {
+      "id": 35,
+      "sensor_id": 6,
+      "time": "2019-07-13 20:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.1
+    },
+    {
+      "id": 36,
+      "sensor_id": 5,
+      "time": "2019-07-13 20:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.6
+    },
+    {
+      "id": 37,
+      "sensor_id": 7,
+      "time": "2019-07-13 20:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.9
+    },
+    {
+      "id": 38,
+      "sensor_id": 7,
+      "time": "2019-07-13 20:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.1
+    },
+    {
+      "id": 39,
+      "sensor_id": 5,
+      "time": "2019-07-13 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.1
+    },
+    {
+      "id": 40,
+      "sensor_id": 5,
+      "time": "2019-07-13 21:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.6
+    },
+    {
+      "id": 41,
+      "sensor_id": 6,
+      "time": "2019-07-13 21:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79
+    },
+    {
+      "id": 42,
+      "sensor_id": 4,
+      "time": "2019-07-13 21:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.4
+    },
+    {
+      "id": 43,
+      "sensor_id": 5,
+      "time": "2019-07-13 22:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73
+    },
+    {
+      "id": 44,
+      "sensor_id": 6,
+      "time": "2019-07-13 22:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.8
+    },
+    {
+      "id": 45,
+      "sensor_id": 7,
+      "time": "2019-07-13 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.4
+    },
+    {
+      "id": 46,
+      "sensor_id": 7,
+      "time": "2019-07-13 22:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.7
+    },
+    {
+      "id": 47,
+      "sensor_id": 4,
+      "time": "2019-07-13 23:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.7
+    },
+    {
+      "id": 48,
+      "sensor_id": 6,
+      "time": "2019-07-13 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.8
+    },
+    {
+      "id": 49,
+      "sensor_id": 5,
+      "time": "2019-07-13 23:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71
+    },
+    {
+      "id": 50,
+      "sensor_id": 4,
+      "time": "2019-07-13 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.5
+    },
+    {
+      "id": 51,
+      "sensor_id": 7,
+      "time": "2019-07-14 0:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.3
+    },
+    {
+      "id": 52,
+      "sensor_id": 4,
+      "time": "2019-07-14 0:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.8
+    },
+    {
+      "id": 53,
+      "sensor_id": 7,
+      "time": "2019-07-14 0:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.5
+    },
+    {
+      "id": 54,
+      "sensor_id": 4,
+      "time": "2019-07-14 0:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.4
+    },
+    {
+      "id": 55,
+      "sensor_id": 5,
+      "time": "2019-07-14 1:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.7
+    },
+    {
+      "id": 56,
+      "sensor_id": 5,
+      "time": "2019-07-14 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.3
+    },
+    {
+      "id": 57,
+      "sensor_id": 6,
+      "time": "2019-07-14 1:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.5
+    },
+    {
+      "id": 58,
+      "sensor_id": 4,
+      "time": "2019-07-14 1:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.8
+    },
+    {
+      "id": 59,
+      "sensor_id": 4,
+      "time": "2019-07-14 2:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.4
+    },
+    {
+      "id": 60,
+      "sensor_id": 7,
+      "time": "2019-07-14 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.6
+    },
+    {
+      "id": 61,
+      "sensor_id": 4,
+      "time": "2019-07-14 2:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67
+    },
+    {
+      "id": 62,
+      "sensor_id": 7,
+      "time": "2019-07-14 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.9
+    },
+    {
+      "id": 63,
+      "sensor_id": 4,
+      "time": "2019-07-14 3:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.6
+    },
+    {
+      "id": 64,
+      "sensor_id": 4,
+      "time": "2019-07-14 3:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.2
+    },
+    {
+      "id": 65,
+      "sensor_id": 5,
+      "time": "2019-07-14 3:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.8
+    },
+    {
+      "id": 66,
+      "sensor_id": 4,
+      "time": "2019-07-14 3:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.5
+    },
+    {
+      "id": 67,
+      "sensor_id": 5,
+      "time": "2019-07-14 4:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70
+    },
+    {
+      "id": 68,
+      "sensor_id": 4,
+      "time": "2019-07-14 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.2
+    },
+    {
+      "id": 69,
+      "sensor_id": 5,
+      "time": "2019-07-14 4:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.4
+    },
+    {
+      "id": 70,
+      "sensor_id": 4,
+      "time": "2019-07-14 4:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71
+    },
+    {
+      "id": 71,
+      "sensor_id": 4,
+      "time": "2019-07-14 5:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.5
+    },
+    {
+      "id": 72,
+      "sensor_id": 4,
+      "time": "2019-07-14 5:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 73,
+      "sensor_id": 6,
+      "time": "2019-07-14 5:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.3
+    },
+    {
+      "id": 74,
+      "sensor_id": 6,
+      "time": "2019-07-14 5:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.7
+    },
+    {
+      "id": 75,
+      "sensor_id": 5,
+      "time": "2019-07-14 6:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.4
+    },
+    {
+      "id": 76,
+      "sensor_id": 4,
+      "time": "2019-07-14 6:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77
+    },
+    {
+      "id": 77,
+      "sensor_id": 5,
+      "time": "2019-07-14 6:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.2
+    },
+    {
+      "id": 78,
+      "sensor_id": 5,
+      "time": "2019-07-14 6:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.9
+    },
+    {
+      "id": 79,
+      "sensor_id": 6,
+      "time": "2019-07-14 7:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.3
+    },
+    {
+      "id": 80,
+      "sensor_id": 5,
+      "time": "2019-07-14 7:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69
+    },
+    {
+      "id": 81,
+      "sensor_id": 5,
+      "time": "2019-07-14 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.5
+    },
+    {
+      "id": 82,
+      "sensor_id": 5,
+      "time": "2019-07-14 7:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.4
+    },
+    {
+      "id": 83,
+      "sensor_id": 6,
+      "time": "2019-07-14 8:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65
+    },
+    {
+      "id": 84,
+      "sensor_id": 4,
+      "time": "2019-07-14 8:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 85,
+      "sensor_id": 6,
+      "time": "2019-07-14 8:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.4
+    },
+    {
+      "id": 86,
+      "sensor_id": 6,
+      "time": "2019-07-14 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.8
+    },
+    {
+      "id": 87,
+      "sensor_id": 5,
+      "time": "2019-07-14 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.6
+    },
+    {
+      "id": 88,
+      "sensor_id": 4,
+      "time": "2019-07-14 9:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.9
+    },
+    {
+      "id": 89,
+      "sensor_id": 5,
+      "time": "2019-07-14 9:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 90,
+      "sensor_id": 6,
+      "time": "2019-07-14 9:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.9
+    },
+    {
+      "id": 91,
+      "sensor_id": 6,
+      "time": "2019-07-14 10:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.8
+    },
+    {
+      "id": 92,
+      "sensor_id": 7,
+      "time": "2019-07-14 10:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.3
+    },
+    {
+      "id": 93,
+      "sensor_id": 5,
+      "time": "2019-07-14 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.4
+    },
+    {
+      "id": 94,
+      "sensor_id": 7,
+      "time": "2019-07-14 10:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.8
+    },
+    {
+      "id": 95,
+      "sensor_id": 7,
+      "time": "2019-07-14 11:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.1
+    },
+    {
+      "id": 96,
+      "sensor_id": 5,
+      "time": "2019-07-14 11:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.8
+    },
+    {
+      "id": 97,
+      "sensor_id": 7,
+      "time": "2019-07-14 11:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.7
+    },
+    {
+      "id": 98,
+      "sensor_id": 6,
+      "time": "2019-07-14 11:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.4
+    },
+    {
+      "id": 99,
+      "sensor_id": 4,
+      "time": "2019-07-14 12:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.3
+    },
+    {
+      "id": 100,
+      "sensor_id": 7,
+      "time": "2019-07-14 12:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.9
+    },
+    {
+      "id": 101,
+      "sensor_id": 7,
+      "time": "2019-07-14 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.2
+    },
+    {
+      "id": 102,
+      "sensor_id": 4,
+      "time": "2019-07-14 12:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77
+    },
+    {
+      "id": 103,
+      "sensor_id": 6,
+      "time": "2019-07-14 13:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.9
+    },
+    {
+      "id": 104,
+      "sensor_id": 6,
+      "time": "2019-07-14 13:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.8
+    },
+    {
+      "id": 105,
+      "sensor_id": 4,
+      "time": "2019-07-14 13:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.5
+    },
+    {
+      "id": 106,
+      "sensor_id": 5,
+      "time": "2019-07-14 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.5
+    },
+    {
+      "id": 107,
+      "sensor_id": 4,
+      "time": "2019-07-14 14:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78
+    },
+    {
+      "id": 108,
+      "sensor_id": 6,
+      "time": "2019-07-14 14:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.1
+    },
+    {
+      "id": 109,
+      "sensor_id": 5,
+      "time": "2019-07-14 14:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.2
+    },
+    {
+      "id": 110,
+      "sensor_id": 4,
+      "time": "2019-07-14 14:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77
+    },
+    {
+      "id": 111,
+      "sensor_id": 7,
+      "time": "2019-07-14 15:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.3
+    },
+    {
+      "id": 112,
+      "sensor_id": 4,
+      "time": "2019-07-14 15:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61
+    },
+    {
+      "id": 113,
+      "sensor_id": 7,
+      "time": "2019-07-14 15:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.8
+    },
+    {
+      "id": 114,
+      "sensor_id": 6,
+      "time": "2019-07-14 15:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.6
+    },
+    {
+      "id": 115,
+      "sensor_id": 6,
+      "time": "2019-07-14 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.3
+    },
+    {
+      "id": 116,
+      "sensor_id": 6,
+      "time": "2019-07-14 16:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.3
+    },
+    {
+      "id": 117,
+      "sensor_id": 5,
+      "time": "2019-07-14 16:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.3
+    },
+    {
+      "id": 118,
+      "sensor_id": 6,
+      "time": "2019-07-14 16:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.8
+    },
+    {
+      "id": 119,
+      "sensor_id": 6,
+      "time": "2019-07-14 17:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.8
+    },
+    {
+      "id": 120,
+      "sensor_id": 4,
+      "time": "2019-07-14 17:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.9
+    },
+    {
+      "id": 121,
+      "sensor_id": 4,
+      "time": "2019-07-14 17:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.5
+    },
+    {
+      "id": 122,
+      "sensor_id": 5,
+      "time": "2019-07-14 17:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.5
+    },
+    {
+      "id": 123,
+      "sensor_id": 7,
+      "time": "2019-07-14 18:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.3
+    },
+    {
+      "id": 124,
+      "sensor_id": 5,
+      "time": "2019-07-14 18:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.1
+    },
+    {
+      "id": 125,
+      "sensor_id": 7,
+      "time": "2019-07-14 18:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.6
+    },
+    {
+      "id": 126,
+      "sensor_id": 4,
+      "time": "2019-07-14 18:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.7
+    },
+    {
+      "id": 127,
+      "sensor_id": 5,
+      "time": "2019-07-14 19:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51
+    },
+    {
+      "id": 128,
+      "sensor_id": 7,
+      "time": "2019-07-14 19:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.8
+    },
+    {
+      "id": 129,
+      "sensor_id": 4,
+      "time": "2019-07-14 19:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.9
+    },
+    {
+      "id": 130,
+      "sensor_id": 6,
+      "time": "2019-07-14 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.6
+    },
+    {
+      "id": 131,
+      "sensor_id": 6,
+      "time": "2019-07-14 20:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.8
+    },
+    {
+      "id": 132,
+      "sensor_id": 5,
+      "time": "2019-07-14 20:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.9
+    },
+    {
+      "id": 133,
+      "sensor_id": 5,
+      "time": "2019-07-14 20:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.9
+    },
+    {
+      "id": 134,
+      "sensor_id": 4,
+      "time": "2019-07-14 20:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.7
+    },
+    {
+      "id": 135,
+      "sensor_id": 4,
+      "time": "2019-07-14 21:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.2
+    },
+    {
+      "id": 136,
+      "sensor_id": 4,
+      "time": "2019-07-14 21:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.1
+    },
+    {
+      "id": 137,
+      "sensor_id": 7,
+      "time": "2019-07-14 21:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.5
+    },
+    {
+      "id": 138,
+      "sensor_id": 5,
+      "time": "2019-07-14 21:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55
+    },
+    {
+      "id": 139,
+      "sensor_id": 4,
+      "time": "2019-07-14 22:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.8
+    },
+    {
+      "id": 140,
+      "sensor_id": 5,
+      "time": "2019-07-14 22:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.1
+    },
+    {
+      "id": 141,
+      "sensor_id": 7,
+      "time": "2019-07-14 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76
+    },
+    {
+      "id": 142,
+      "sensor_id": 6,
+      "time": "2019-07-14 22:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.2
+    },
+    {
+      "id": 143,
+      "sensor_id": 7,
+      "time": "2019-07-14 23:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.2
+    },
+    {
+      "id": 144,
+      "sensor_id": 6,
+      "time": "2019-07-14 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.4
+    },
+    {
+      "id": 145,
+      "sensor_id": 5,
+      "time": "2019-07-14 23:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.2
+    },
+    {
+      "id": 146,
+      "sensor_id": 7,
+      "time": "2019-07-14 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68
+    },
+    {
+      "id": 147,
+      "sensor_id": 4,
+      "time": "2019-07-15 0:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.1
+    },
+    {
+      "id": 148,
+      "sensor_id": 4,
+      "time": "2019-07-15 0:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.2
+    },
+    {
+      "id": 149,
+      "sensor_id": 6,
+      "time": "2019-07-15 0:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.1
+    },
+    {
+      "id": 150,
+      "sensor_id": 5,
+      "time": "2019-07-15 0:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.7
+    },
+    {
+      "id": 151,
+      "sensor_id": 7,
+      "time": "2019-07-15 1:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.8
+    },
+    {
+      "id": 152,
+      "sensor_id": 5,
+      "time": "2019-07-15 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.9
+    },
+    {
+      "id": 153,
+      "sensor_id": 7,
+      "time": "2019-07-15 1:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.5
+    },
+    {
+      "id": 154,
+      "sensor_id": 7,
+      "time": "2019-07-15 1:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.5
+    },
+    {
+      "id": 155,
+      "sensor_id": 7,
+      "time": "2019-07-15 2:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73
+    },
+    {
+      "id": 156,
+      "sensor_id": 7,
+      "time": "2019-07-15 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.8
+    },
+    {
+      "id": 157,
+      "sensor_id": 6,
+      "time": "2019-07-15 2:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.7
+    },
+    {
+      "id": 158,
+      "sensor_id": 7,
+      "time": "2019-07-15 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.3
+    },
+    {
+      "id": 159,
+      "sensor_id": 5,
+      "time": "2019-07-15 3:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.4
+    },
+    {
+      "id": 160,
+      "sensor_id": 6,
+      "time": "2019-07-15 3:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.7
+    },
+    {
+      "id": 161,
+      "sensor_id": 5,
+      "time": "2019-07-15 3:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.1
+    },
+    {
+      "id": 162,
+      "sensor_id": 5,
+      "time": "2019-07-15 3:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.4
+    },
+    {
+      "id": 163,
+      "sensor_id": 5,
+      "time": "2019-07-15 4:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.4
+    },
+    {
+      "id": 164,
+      "sensor_id": 5,
+      "time": "2019-07-15 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.1
+    },
+    {
+      "id": 165,
+      "sensor_id": 7,
+      "time": "2019-07-15 4:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.5
+    },
+    {
+      "id": 166,
+      "sensor_id": 4,
+      "time": "2019-07-15 4:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.4
+    },
+    {
+      "id": 167,
+      "sensor_id": 5,
+      "time": "2019-07-15 5:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.5
+    },
+    {
+      "id": 168,
+      "sensor_id": 5,
+      "time": "2019-07-15 5:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.6
+    },
+    {
+      "id": 169,
+      "sensor_id": 5,
+      "time": "2019-07-15 5:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.7
+    },
+    {
+      "id": 170,
+      "sensor_id": 5,
+      "time": "2019-07-15 5:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.2
+    },
+    {
+      "id": 171,
+      "sensor_id": 6,
+      "time": "2019-07-15 6:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.5
+    },
+    {
+      "id": 172,
+      "sensor_id": 5,
+      "time": "2019-07-15 6:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.1
+    },
+    {
+      "id": 173,
+      "sensor_id": 4,
+      "time": "2019-07-15 6:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63
+    },
+    {
+      "id": 174,
+      "sensor_id": 7,
+      "time": "2019-07-15 6:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.5
+    },
+    {
+      "id": 175,
+      "sensor_id": 7,
+      "time": "2019-07-15 7:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.7
+    },
+    {
+      "id": 176,
+      "sensor_id": 6,
+      "time": "2019-07-15 7:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.5
+    },
+    {
+      "id": 177,
+      "sensor_id": 7,
+      "time": "2019-07-15 7:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.6
+    },
+    {
+      "id": 178,
+      "sensor_id": 6,
+      "time": "2019-07-15 7:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.5
+    },
+    {
+      "id": 179,
+      "sensor_id": 5,
+      "time": "2019-07-15 8:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.8
+    },
+    {
+      "id": 180,
+      "sensor_id": 4,
+      "time": "2019-07-15 8:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.1
+    },
+    {
+      "id": 181,
+      "sensor_id": 6,
+      "time": "2019-07-15 8:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.4
+    },
+    {
+      "id": 182,
+      "sensor_id": 7,
+      "time": "2019-07-15 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.1
+    },
+    {
+      "id": 183,
+      "sensor_id": 6,
+      "time": "2019-07-15 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.3
+    },
+    {
+      "id": 184,
+      "sensor_id": 6,
+      "time": "2019-07-15 9:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.7
+    },
+    {
+      "id": 185,
+      "sensor_id": 4,
+      "time": "2019-07-15 9:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.8
+    },
+    {
+      "id": 186,
+      "sensor_id": 4,
+      "time": "2019-07-15 9:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.9
+    },
+    {
+      "id": 187,
+      "sensor_id": 4,
+      "time": "2019-07-15 10:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.6
+    },
+    {
+      "id": 188,
+      "sensor_id": 5,
+      "time": "2019-07-15 10:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.8
+    },
+    {
+      "id": 189,
+      "sensor_id": 5,
+      "time": "2019-07-15 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.1
+    },
+    {
+      "id": 190,
+      "sensor_id": 5,
+      "time": "2019-07-15 10:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.1
+    },
+    {
+      "id": 191,
+      "sensor_id": 7,
+      "time": "2019-07-15 11:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.6
+    },
+    {
+      "id": 192,
+      "sensor_id": 4,
+      "time": "2019-07-15 11:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.7
+    },
+    {
+      "id": 193,
+      "sensor_id": 4,
+      "time": "2019-07-15 11:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.1
+    },
+    {
+      "id": 194,
+      "sensor_id": 6,
+      "time": "2019-07-15 11:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.1
+    },
+    {
+      "id": 195,
+      "sensor_id": 7,
+      "time": "2019-07-15 12:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.2
+    },
+    {
+      "id": 196,
+      "sensor_id": 4,
+      "time": "2019-07-15 12:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.6
+    },
+    {
+      "id": 197,
+      "sensor_id": 6,
+      "time": "2019-07-15 12:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.9
+    },
+    {
+      "id": 198,
+      "sensor_id": 7,
+      "time": "2019-07-15 12:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.8
+    },
+    {
+      "id": 199,
+      "sensor_id": 7,
+      "time": "2019-07-15 13:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.6
+    },
+    {
+      "id": 200,
+      "sensor_id": 5,
+      "time": "2019-07-15 13:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.8
+    },
+    {
+      "id": 201,
+      "sensor_id": 4,
+      "time": "2019-07-15 13:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.7
+    },
+    {
+      "id": 202,
+      "sensor_id": 6,
+      "time": "2019-07-15 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.6
+    },
+    {
+      "id": 203,
+      "sensor_id": 5,
+      "time": "2019-07-15 14:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.5
+    },
+    {
+      "id": 204,
+      "sensor_id": 6,
+      "time": "2019-07-15 14:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.3
+    },
+    {
+      "id": 205,
+      "sensor_id": 6,
+      "time": "2019-07-15 14:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.7
+    },
+    {
+      "id": 206,
+      "sensor_id": 6,
+      "time": "2019-07-15 14:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.7
+    },
+    {
+      "id": 207,
+      "sensor_id": 6,
+      "time": "2019-07-15 15:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.9
+    },
+    {
+      "id": 208,
+      "sensor_id": 5,
+      "time": "2019-07-15 15:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.5
+    },
+    {
+      "id": 209,
+      "sensor_id": 7,
+      "time": "2019-07-15 15:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.9
+    },
+    {
+      "id": 210,
+      "sensor_id": 6,
+      "time": "2019-07-15 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.6
+    },
+    {
+      "id": 211,
+      "sensor_id": 5,
+      "time": "2019-07-15 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.8
+    },
+    {
+      "id": 212,
+      "sensor_id": 7,
+      "time": "2019-07-15 16:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75
+    },
+    {
+      "id": 213,
+      "sensor_id": 5,
+      "time": "2019-07-15 16:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.8
+    },
+    {
+      "id": 214,
+      "sensor_id": 4,
+      "time": "2019-07-15 16:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.3
+    },
+    {
+      "id": 215,
+      "sensor_id": 4,
+      "time": "2019-07-15 17:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.9
+    },
+    {
+      "id": 216,
+      "sensor_id": 7,
+      "time": "2019-07-15 17:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49
+    },
+    {
+      "id": 217,
+      "sensor_id": 5,
+      "time": "2019-07-15 17:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.1
+    },
+    {
+      "id": 218,
+      "sensor_id": 4,
+      "time": "2019-07-15 17:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.8
+    },
+    {
+      "id": 219,
+      "sensor_id": 7,
+      "time": "2019-07-15 18:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66
+    },
+    {
+      "id": 220,
+      "sensor_id": 7,
+      "time": "2019-07-15 18:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.4
+    },
+    {
+      "id": 221,
+      "sensor_id": 6,
+      "time": "2019-07-15 18:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.9
+    },
+    {
+      "id": 222,
+      "sensor_id": 7,
+      "time": "2019-07-15 18:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.7
+    },
+    {
+      "id": 223,
+      "sensor_id": 4,
+      "time": "2019-07-15 19:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.3
+    },
+    {
+      "id": 224,
+      "sensor_id": 7,
+      "time": "2019-07-15 19:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.1
+    },
+    {
+      "id": 225,
+      "sensor_id": 4,
+      "time": "2019-07-15 19:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.8
+    },
+    {
+      "id": 226,
+      "sensor_id": 7,
+      "time": "2019-07-15 19:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.6
+    },
+    {
+      "id": 227,
+      "sensor_id": 4,
+      "time": "2019-07-15 20:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.9
+    },
+    {
+      "id": 228,
+      "sensor_id": 4,
+      "time": "2019-07-15 20:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.9
+    },
+    {
+      "id": 229,
+      "sensor_id": 6,
+      "time": "2019-07-15 20:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.1
+    },
+    {
+      "id": 230,
+      "sensor_id": 4,
+      "time": "2019-07-15 20:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.9
+    },
+    {
+      "id": 231,
+      "sensor_id": 7,
+      "time": "2019-07-15 21:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.8
+    },
+    {
+      "id": 232,
+      "sensor_id": 5,
+      "time": "2019-07-15 21:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.2
+    },
+    {
+      "id": 233,
+      "sensor_id": 4,
+      "time": "2019-07-15 21:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.9
+    },
+    {
+      "id": 234,
+      "sensor_id": 5,
+      "time": "2019-07-15 21:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.3
+    },
+    {
+      "id": 235,
+      "sensor_id": 7,
+      "time": "2019-07-15 22:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.7
+    },
+    {
+      "id": 236,
+      "sensor_id": 4,
+      "time": "2019-07-15 22:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.6
+    },
+    {
+      "id": 237,
+      "sensor_id": 6,
+      "time": "2019-07-15 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.5
+    },
+    {
+      "id": 238,
+      "sensor_id": 6,
+      "time": "2019-07-15 22:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.5
+    },
+    {
+      "id": 239,
+      "sensor_id": 5,
+      "time": "2019-07-15 23:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.2
+    },
+    {
+      "id": 240,
+      "sensor_id": 7,
+      "time": "2019-07-15 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.1
+    },
+    {
+      "id": 241,
+      "sensor_id": 7,
+      "time": "2019-07-15 23:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.9
+    },
+    {
+      "id": 242,
+      "sensor_id": 6,
+      "time": "2019-07-15 23:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.8
+    },
+    {
+      "id": 243,
+      "sensor_id": 6,
+      "time": "2019-07-16 0:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69
+    },
+    {
+      "id": 244,
+      "sensor_id": 4,
+      "time": "2019-07-16 0:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.8
+    },
+    {
+      "id": 245,
+      "sensor_id": 6,
+      "time": "2019-07-16 0:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.8
+    },
+    {
+      "id": 246,
+      "sensor_id": 6,
+      "time": "2019-07-16 0:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.7
+    },
+    {
+      "id": 247,
+      "sensor_id": 6,
+      "time": "2019-07-16 1:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.8
+    },
+    {
+      "id": 248,
+      "sensor_id": 5,
+      "time": "2019-07-16 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.8
+    },
+    {
+      "id": 249,
+      "sensor_id": 7,
+      "time": "2019-07-16 1:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.6
+    },
+    {
+      "id": 250,
+      "sensor_id": 7,
+      "time": "2019-07-16 1:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72
+    },
+    {
+      "id": 251,
+      "sensor_id": 5,
+      "time": "2019-07-16 2:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.2
+    },
+    {
+      "id": 252,
+      "sensor_id": 4,
+      "time": "2019-07-16 2:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.7
+    },
+    {
+      "id": 253,
+      "sensor_id": 5,
+      "time": "2019-07-16 2:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.8
+    },
+    {
+      "id": 254,
+      "sensor_id": 4,
+      "time": "2019-07-16 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.9
+    },
+    {
+      "id": 255,
+      "sensor_id": 5,
+      "time": "2019-07-16 3:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57
+    },
+    {
+      "id": 256,
+      "sensor_id": 7,
+      "time": "2019-07-16 3:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.5
+    },
+    {
+      "id": 257,
+      "sensor_id": 4,
+      "time": "2019-07-16 3:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.9
+    },
+    {
+      "id": 258,
+      "sensor_id": 7,
+      "time": "2019-07-16 3:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.9
+    },
+    {
+      "id": 259,
+      "sensor_id": 6,
+      "time": "2019-07-16 4:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.9
+    },
+    {
+      "id": 260,
+      "sensor_id": 4,
+      "time": "2019-07-16 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.7
+    },
+    {
+      "id": 261,
+      "sensor_id": 5,
+      "time": "2019-07-16 4:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.6
+    },
+    {
+      "id": 262,
+      "sensor_id": 4,
+      "time": "2019-07-16 4:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.8
+    },
+    {
+      "id": 263,
+      "sensor_id": 6,
+      "time": "2019-07-16 5:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.8
+    },
+    {
+      "id": 264,
+      "sensor_id": 4,
+      "time": "2019-07-16 5:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.9
+    },
+    {
+      "id": 265,
+      "sensor_id": 6,
+      "time": "2019-07-16 5:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68
+    },
+    {
+      "id": 266,
+      "sensor_id": 6,
+      "time": "2019-07-16 5:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.2
+    },
+    {
+      "id": 267,
+      "sensor_id": 6,
+      "time": "2019-07-16 6:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.6
+    },
+    {
+      "id": 268,
+      "sensor_id": 6,
+      "time": "2019-07-16 6:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.3
+    },
+    {
+      "id": 269,
+      "sensor_id": 4,
+      "time": "2019-07-16 6:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.7
+    },
+    {
+      "id": 270,
+      "sensor_id": 6,
+      "time": "2019-07-16 6:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.2
+    },
+    {
+      "id": 271,
+      "sensor_id": 7,
+      "time": "2019-07-16 7:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65
+    },
+    {
+      "id": 272,
+      "sensor_id": 7,
+      "time": "2019-07-16 7:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.7
+    },
+    {
+      "id": 273,
+      "sensor_id": 4,
+      "time": "2019-07-16 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.2
+    },
+    {
+      "id": 274,
+      "sensor_id": 4,
+      "time": "2019-07-16 7:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.9
+    },
+    {
+      "id": 275,
+      "sensor_id": 7,
+      "time": "2019-07-16 8:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.4
+    },
+    {
+      "id": 276,
+      "sensor_id": 7,
+      "time": "2019-07-16 8:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.5
+    },
+    {
+      "id": 277,
+      "sensor_id": 7,
+      "time": "2019-07-16 8:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.9
+    },
+    {
+      "id": 278,
+      "sensor_id": 6,
+      "time": "2019-07-16 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.7
+    },
+    {
+      "id": 279,
+      "sensor_id": 4,
+      "time": "2019-07-16 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.1
+    },
+    {
+      "id": 280,
+      "sensor_id": 4,
+      "time": "2019-07-16 9:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.2
+    },
+    {
+      "id": 281,
+      "sensor_id": 4,
+      "time": "2019-07-16 9:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.4
+    },
+    {
+      "id": 282,
+      "sensor_id": 5,
+      "time": "2019-07-16 9:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.6
+    },
+    {
+      "id": 283,
+      "sensor_id": 6,
+      "time": "2019-07-16 10:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.8
+    },
+    {
+      "id": 284,
+      "sensor_id": 4,
+      "time": "2019-07-16 10:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65
+    },
+    {
+      "id": 285,
+      "sensor_id": 5,
+      "time": "2019-07-16 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.5
+    },
+    {
+      "id": 286,
+      "sensor_id": 7,
+      "time": "2019-07-16 10:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.2
+    },
+    {
+      "id": 287,
+      "sensor_id": 4,
+      "time": "2019-07-16 11:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.9
+    },
+    {
+      "id": 288,
+      "sensor_id": 6,
+      "time": "2019-07-16 11:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.1
+    },
+    {
+      "id": 289,
+      "sensor_id": 4,
+      "time": "2019-07-16 11:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.8
+    },
+    {
+      "id": 290,
+      "sensor_id": 4,
+      "time": "2019-07-16 11:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.5
+    },
+    {
+      "id": 291,
+      "sensor_id": 4,
+      "time": "2019-07-16 12:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.1
+    },
+    {
+      "id": 292,
+      "sensor_id": 4,
+      "time": "2019-07-16 12:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.1
+    },
+    {
+      "id": 293,
+      "sensor_id": 7,
+      "time": "2019-07-16 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.2
+    },
+    {
+      "id": 294,
+      "sensor_id": 5,
+      "time": "2019-07-16 12:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.2
+    },
+    {
+      "id": 295,
+      "sensor_id": 4,
+      "time": "2019-07-16 13:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.5
+    },
+    {
+      "id": 296,
+      "sensor_id": 4,
+      "time": "2019-07-16 13:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.6
+    },
+    {
+      "id": 297,
+      "sensor_id": 4,
+      "time": "2019-07-16 13:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.4
+    },
+    {
+      "id": 298,
+      "sensor_id": 6,
+      "time": "2019-07-16 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.1
+    },
+    {
+      "id": 299,
+      "sensor_id": 4,
+      "time": "2019-07-16 14:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.8
+    },
+    {
+      "id": 300,
+      "sensor_id": 7,
+      "time": "2019-07-16 14:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.3
+    },
+    {
+      "id": 301,
+      "sensor_id": 5,
+      "time": "2019-07-16 14:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.2
+    },
+    {
+      "id": 302,
+      "sensor_id": 4,
+      "time": "2019-07-16 14:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.1
+    },
+    {
+      "id": 303,
+      "sensor_id": 6,
+      "time": "2019-07-16 15:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.2
+    },
+    {
+      "id": 304,
+      "sensor_id": 4,
+      "time": "2019-07-16 15:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.6
+    },
+    {
+      "id": 305,
+      "sensor_id": 6,
+      "time": "2019-07-16 15:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.2
+    },
+    {
+      "id": 306,
+      "sensor_id": 5,
+      "time": "2019-07-16 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.1
+    },
+    {
+      "id": 307,
+      "sensor_id": 6,
+      "time": "2019-07-16 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.1
+    },
+    {
+      "id": 308,
+      "sensor_id": 4,
+      "time": "2019-07-16 16:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.4
+    },
+    {
+      "id": 309,
+      "sensor_id": 7,
+      "time": "2019-07-16 16:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.2
+    },
+    {
+      "id": 310,
+      "sensor_id": 6,
+      "time": "2019-07-16 16:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.1
+    },
+    {
+      "id": 311,
+      "sensor_id": 5,
+      "time": "2019-07-16 17:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65
+    },
+    {
+      "id": 312,
+      "sensor_id": 6,
+      "time": "2019-07-16 17:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.4
+    },
+    {
+      "id": 313,
+      "sensor_id": 6,
+      "time": "2019-07-16 17:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.2
+    },
+    {
+      "id": 314,
+      "sensor_id": 7,
+      "time": "2019-07-16 17:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.1
+    },
+    {
+      "id": 315,
+      "sensor_id": 5,
+      "time": "2019-07-16 18:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 316,
+      "sensor_id": 7,
+      "time": "2019-07-16 18:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.8
+    },
+    {
+      "id": 317,
+      "sensor_id": 7,
+      "time": "2019-07-16 18:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.9
+    },
+    {
+      "id": 318,
+      "sensor_id": 7,
+      "time": "2019-07-16 18:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.3
+    },
+    {
+      "id": 319,
+      "sensor_id": 7,
+      "time": "2019-07-16 19:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.9
+    },
+    {
+      "id": 320,
+      "sensor_id": 6,
+      "time": "2019-07-16 19:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.8
+    },
+    {
+      "id": 321,
+      "sensor_id": 6,
+      "time": "2019-07-16 19:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.7
+    },
+    {
+      "id": 322,
+      "sensor_id": 5,
+      "time": "2019-07-16 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.2
+    },
+    {
+      "id": 323,
+      "sensor_id": 7,
+      "time": "2019-07-16 20:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.5
+    },
+    {
+      "id": 324,
+      "sensor_id": 7,
+      "time": "2019-07-16 20:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.4
+    },
+    {
+      "id": 325,
+      "sensor_id": 6,
+      "time": "2019-07-16 20:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.9
+    },
+    {
+      "id": 326,
+      "sensor_id": 6,
+      "time": "2019-07-16 20:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66
+    },
+    {
+      "id": 327,
+      "sensor_id": 4,
+      "time": "2019-07-16 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.1
+    },
+    {
+      "id": 328,
+      "sensor_id": 4,
+      "time": "2019-07-16 21:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.9
+    },
+    {
+      "id": 329,
+      "sensor_id": 4,
+      "time": "2019-07-16 21:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 330,
+      "sensor_id": 4,
+      "time": "2019-07-16 21:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62
+    },
+    {
+      "id": 331,
+      "sensor_id": 4,
+      "time": "2019-07-16 22:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.7
+    },
+    {
+      "id": 332,
+      "sensor_id": 7,
+      "time": "2019-07-16 22:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.2
+    },
+    {
+      "id": 333,
+      "sensor_id": 5,
+      "time": "2019-07-16 22:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.4
+    },
+    {
+      "id": 334,
+      "sensor_id": 4,
+      "time": "2019-07-16 22:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 335,
+      "sensor_id": 6,
+      "time": "2019-07-16 23:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.5
+    },
+    {
+      "id": 336,
+      "sensor_id": 6,
+      "time": "2019-07-16 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.6
+    },
+    {
+      "id": 337,
+      "sensor_id": 4,
+      "time": "2019-07-16 23:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67
+    },
+    {
+      "id": 338,
+      "sensor_id": 5,
+      "time": "2019-07-16 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 339,
+      "sensor_id": 5,
+      "time": "2019-07-17 0:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.1
+    },
+    {
+      "id": 340,
+      "sensor_id": 4,
+      "time": "2019-07-17 0:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.8
+    },
+    {
+      "id": 341,
+      "sensor_id": 5,
+      "time": "2019-07-17 0:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.4
+    },
+    {
+      "id": 342,
+      "sensor_id": 6,
+      "time": "2019-07-17 0:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.7
+    },
+    {
+      "id": 343,
+      "sensor_id": 4,
+      "time": "2019-07-17 1:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67
+    },
+    {
+      "id": 344,
+      "sensor_id": 5,
+      "time": "2019-07-17 1:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48
+    },
+    {
+      "id": 345,
+      "sensor_id": 7,
+      "time": "2019-07-17 1:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.3
+    },
+    {
+      "id": 346,
+      "sensor_id": 7,
+      "time": "2019-07-17 1:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.4
+    },
+    {
+      "id": 347,
+      "sensor_id": 7,
+      "time": "2019-07-17 2:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.3
+    },
+    {
+      "id": 348,
+      "sensor_id": 7,
+      "time": "2019-07-17 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.6
+    },
+    {
+      "id": 349,
+      "sensor_id": 6,
+      "time": "2019-07-17 2:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 350,
+      "sensor_id": 6,
+      "time": "2019-07-17 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.2
+    },
+    {
+      "id": 351,
+      "sensor_id": 4,
+      "time": "2019-07-17 3:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.2
+    },
+    {
+      "id": 352,
+      "sensor_id": 5,
+      "time": "2019-07-17 3:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48
+    },
+    {
+      "id": 353,
+      "sensor_id": 4,
+      "time": "2019-07-17 3:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.7
+    },
+    {
+      "id": 354,
+      "sensor_id": 4,
+      "time": "2019-07-17 3:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.8
+    },
+    {
+      "id": 355,
+      "sensor_id": 7,
+      "time": "2019-07-17 4:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48
+    },
+    {
+      "id": 356,
+      "sensor_id": 4,
+      "time": "2019-07-17 4:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55
+    },
+    {
+      "id": 357,
+      "sensor_id": 4,
+      "time": "2019-07-17 4:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.7
+    },
+    {
+      "id": 358,
+      "sensor_id": 5,
+      "time": "2019-07-17 4:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.7
+    },
+    {
+      "id": 359,
+      "sensor_id": 4,
+      "time": "2019-07-17 5:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.9
+    },
+    {
+      "id": 360,
+      "sensor_id": 7,
+      "time": "2019-07-17 5:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.5
+    },
+    {
+      "id": 361,
+      "sensor_id": 6,
+      "time": "2019-07-17 5:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.6
+    },
+    {
+      "id": 362,
+      "sensor_id": 6,
+      "time": "2019-07-17 5:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49
+    },
+    {
+      "id": 363,
+      "sensor_id": 4,
+      "time": "2019-07-17 6:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.9
+    },
+    {
+      "id": 364,
+      "sensor_id": 7,
+      "time": "2019-07-17 6:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.7
+    },
+    {
+      "id": 365,
+      "sensor_id": 5,
+      "time": "2019-07-17 6:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.6
+    },
+    {
+      "id": 366,
+      "sensor_id": 5,
+      "time": "2019-07-17 6:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.5
+    },
+    {
+      "id": 367,
+      "sensor_id": 7,
+      "time": "2019-07-17 7:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.9
+    },
+    {
+      "id": 368,
+      "sensor_id": 6,
+      "time": "2019-07-17 7:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.3
+    },
+    {
+      "id": 369,
+      "sensor_id": 7,
+      "time": "2019-07-17 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.5
+    },
+    {
+      "id": 370,
+      "sensor_id": 4,
+      "time": "2019-07-17 7:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.7
+    },
+    {
+      "id": 371,
+      "sensor_id": 7,
+      "time": "2019-07-17 8:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.9
+    },
+    {
+      "id": 372,
+      "sensor_id": 6,
+      "time": "2019-07-17 8:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.6
+    },
+    {
+      "id": 373,
+      "sensor_id": 4,
+      "time": "2019-07-17 8:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.4
+    },
+    {
+      "id": 374,
+      "sensor_id": 4,
+      "time": "2019-07-17 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.3
+    },
+    {
+      "id": 375,
+      "sensor_id": 5,
+      "time": "2019-07-17 9:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.4
+    },
+    {
+      "id": 376,
+      "sensor_id": 6,
+      "time": "2019-07-17 9:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.9
+    },
+    {
+      "id": 377,
+      "sensor_id": 5,
+      "time": "2019-07-17 9:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.7
+    },
+    {
+      "id": 378,
+      "sensor_id": 5,
+      "time": "2019-07-17 9:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.9
+    },
+    {
+      "id": 379,
+      "sensor_id": 6,
+      "time": "2019-07-17 10:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.9
+    },
+    {
+      "id": 380,
+      "sensor_id": 4,
+      "time": "2019-07-17 10:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.1
+    },
+    {
+      "id": 381,
+      "sensor_id": 5,
+      "time": "2019-07-17 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.7
+    },
+    {
+      "id": 382,
+      "sensor_id": 6,
+      "time": "2019-07-17 10:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.2
+    },
+    {
+      "id": 383,
+      "sensor_id": 5,
+      "time": "2019-07-17 11:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.9
+    },
+    {
+      "id": 384,
+      "sensor_id": 5,
+      "time": "2019-07-17 11:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.8
+    },
+    {
+      "id": 385,
+      "sensor_id": 6,
+      "time": "2019-07-17 11:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.6
+    },
+    {
+      "id": 386,
+      "sensor_id": 6,
+      "time": "2019-07-17 11:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.9
+    },
+    {
+      "id": 387,
+      "sensor_id": 7,
+      "time": "2019-07-17 12:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.1
+    },
+    {
+      "id": 388,
+      "sensor_id": 4,
+      "time": "2019-07-17 12:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.4
+    },
+    {
+      "id": 389,
+      "sensor_id": 7,
+      "time": "2019-07-17 12:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.1
+    },
+    {
+      "id": 390,
+      "sensor_id": 7,
+      "time": "2019-07-17 12:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.6
+    },
+    {
+      "id": 391,
+      "sensor_id": 4,
+      "time": "2019-07-17 13:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.8
+    },
+    {
+      "id": 392,
+      "sensor_id": 6,
+      "time": "2019-07-17 13:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69
+    },
+    {
+      "id": 393,
+      "sensor_id": 4,
+      "time": "2019-07-17 13:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67
+    },
+    {
+      "id": 394,
+      "sensor_id": 5,
+      "time": "2019-07-17 13:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.6
+    },
+    {
+      "id": 395,
+      "sensor_id": 4,
+      "time": "2019-07-17 14:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.6
+    },
+    {
+      "id": 396,
+      "sensor_id": 6,
+      "time": "2019-07-17 14:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.8
+    },
+    {
+      "id": 397,
+      "sensor_id": 6,
+      "time": "2019-07-17 14:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.4
+    },
+    {
+      "id": 398,
+      "sensor_id": 7,
+      "time": "2019-07-17 14:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.1
+    },
+    {
+      "id": 399,
+      "sensor_id": 7,
+      "time": "2019-07-17 15:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.2
+    },
+    {
+      "id": 400,
+      "sensor_id": 5,
+      "time": "2019-07-17 15:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.8
+    },
+    {
+      "id": 401,
+      "sensor_id": 4,
+      "time": "2019-07-17 15:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.7
+    },
+    {
+      "id": 402,
+      "sensor_id": 6,
+      "time": "2019-07-17 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.7
+    },
+    {
+      "id": 403,
+      "sensor_id": 4,
+      "time": "2019-07-17 16:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.5
+    },
+    {
+      "id": 404,
+      "sensor_id": 6,
+      "time": "2019-07-17 16:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.3
+    },
+    {
+      "id": 405,
+      "sensor_id": 6,
+      "time": "2019-07-17 16:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52
+    },
+    {
+      "id": 406,
+      "sensor_id": 5,
+      "time": "2019-07-17 16:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.8
+    },
+    {
+      "id": 407,
+      "sensor_id": 6,
+      "time": "2019-07-17 17:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 408,
+      "sensor_id": 4,
+      "time": "2019-07-17 17:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.6
+    },
+    {
+      "id": 409,
+      "sensor_id": 5,
+      "time": "2019-07-17 17:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.3
+    },
+    {
+      "id": 410,
+      "sensor_id": 5,
+      "time": "2019-07-17 17:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.5
+    },
+    {
+      "id": 411,
+      "sensor_id": 6,
+      "time": "2019-07-17 18:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.6
+    },
+    {
+      "id": 412,
+      "sensor_id": 7,
+      "time": "2019-07-17 18:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.1
+    },
+    {
+      "id": 413,
+      "sensor_id": 6,
+      "time": "2019-07-17 18:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.9
+    },
+    {
+      "id": 414,
+      "sensor_id": 4,
+      "time": "2019-07-17 18:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74
+    },
+    {
+      "id": 415,
+      "sensor_id": 5,
+      "time": "2019-07-17 19:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.4
+    },
+    {
+      "id": 416,
+      "sensor_id": 4,
+      "time": "2019-07-17 19:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.6
+    },
+    {
+      "id": 417,
+      "sensor_id": 6,
+      "time": "2019-07-17 19:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.7
+    },
+    {
+      "id": 418,
+      "sensor_id": 6,
+      "time": "2019-07-17 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.6
+    },
+    {
+      "id": 419,
+      "sensor_id": 5,
+      "time": "2019-07-17 20:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.7
+    },
+    {
+      "id": 420,
+      "sensor_id": 6,
+      "time": "2019-07-17 20:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.5
+    },
+    {
+      "id": 421,
+      "sensor_id": 5,
+      "time": "2019-07-17 20:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.8
+    },
+    {
+      "id": 422,
+      "sensor_id": 5,
+      "time": "2019-07-17 20:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67
+    },
+    {
+      "id": 423,
+      "sensor_id": 4,
+      "time": "2019-07-17 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.4
+    },
+    {
+      "id": 424,
+      "sensor_id": 7,
+      "time": "2019-07-17 21:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.3
+    },
+    {
+      "id": 425,
+      "sensor_id": 7,
+      "time": "2019-07-17 21:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.8
+    },
+    {
+      "id": 426,
+      "sensor_id": 5,
+      "time": "2019-07-17 21:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.8
+    },
+    {
+      "id": 427,
+      "sensor_id": 5,
+      "time": "2019-07-17 22:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.2
+    },
+    {
+      "id": 428,
+      "sensor_id": 6,
+      "time": "2019-07-17 22:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.6
+    },
+    {
+      "id": 429,
+      "sensor_id": 5,
+      "time": "2019-07-17 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.9
+    },
+    {
+      "id": 430,
+      "sensor_id": 6,
+      "time": "2019-07-17 22:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.3
+    },
+    {
+      "id": 431,
+      "sensor_id": 6,
+      "time": "2019-07-17 23:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.5
+    },
+    {
+      "id": 432,
+      "sensor_id": 7,
+      "time": "2019-07-17 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50
+    },
+    {
+      "id": 433,
+      "sensor_id": 5,
+      "time": "2019-07-17 23:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 434,
+      "sensor_id": 6,
+      "time": "2019-07-17 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.1
+    },
+    {
+      "id": 435,
+      "sensor_id": 4,
+      "time": "2019-07-18 0:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.6
+    },
+    {
+      "id": 436,
+      "sensor_id": 4,
+      "time": "2019-07-18 0:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56
+    },
+    {
+      "id": 437,
+      "sensor_id": 4,
+      "time": "2019-07-18 0:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.9
+    },
+    {
+      "id": 438,
+      "sensor_id": 4,
+      "time": "2019-07-18 0:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.4
+    },
+    {
+      "id": 439,
+      "sensor_id": 6,
+      "time": "2019-07-18 1:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.4
+    },
+    {
+      "id": 440,
+      "sensor_id": 6,
+      "time": "2019-07-18 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.7
+    },
+    {
+      "id": 441,
+      "sensor_id": 4,
+      "time": "2019-07-18 1:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.7
+    },
+    {
+      "id": 442,
+      "sensor_id": 7,
+      "time": "2019-07-18 1:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72
+    },
+    {
+      "id": 443,
+      "sensor_id": 7,
+      "time": "2019-07-18 2:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66
+    },
+    {
+      "id": 444,
+      "sensor_id": 5,
+      "time": "2019-07-18 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.2
+    },
+    {
+      "id": 445,
+      "sensor_id": 5,
+      "time": "2019-07-18 2:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.3
+    },
+    {
+      "id": 446,
+      "sensor_id": 4,
+      "time": "2019-07-18 2:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.2
+    },
+    {
+      "id": 447,
+      "sensor_id": 6,
+      "time": "2019-07-18 3:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.8
+    },
+    {
+      "id": 448,
+      "sensor_id": 7,
+      "time": "2019-07-18 3:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.1
+    },
+    {
+      "id": 449,
+      "sensor_id": 6,
+      "time": "2019-07-18 3:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.4
+    },
+    {
+      "id": 450,
+      "sensor_id": 6,
+      "time": "2019-07-18 3:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.3
+    },
+    {
+      "id": 451,
+      "sensor_id": 7,
+      "time": "2019-07-18 4:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.1
+    },
+    {
+      "id": 452,
+      "sensor_id": 6,
+      "time": "2019-07-18 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.4
+    },
+    {
+      "id": 453,
+      "sensor_id": 5,
+      "time": "2019-07-18 4:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62
+    },
+    {
+      "id": 454,
+      "sensor_id": 4,
+      "time": "2019-07-18 4:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.9
+    },
+    {
+      "id": 455,
+      "sensor_id": 5,
+      "time": "2019-07-18 5:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.8
+    },
+    {
+      "id": 456,
+      "sensor_id": 5,
+      "time": "2019-07-18 5:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.3
+    },
+    {
+      "id": 457,
+      "sensor_id": 7,
+      "time": "2019-07-18 5:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.1
+    },
+    {
+      "id": 458,
+      "sensor_id": 4,
+      "time": "2019-07-18 5:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.6
+    },
+    {
+      "id": 459,
+      "sensor_id": 6,
+      "time": "2019-07-18 6:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.5
+    },
+    {
+      "id": 460,
+      "sensor_id": 5,
+      "time": "2019-07-18 6:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.7
+    },
+    {
+      "id": 461,
+      "sensor_id": 5,
+      "time": "2019-07-18 6:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.3
+    },
+    {
+      "id": 462,
+      "sensor_id": 6,
+      "time": "2019-07-18 6:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.8
+    },
+    {
+      "id": 463,
+      "sensor_id": 6,
+      "time": "2019-07-18 7:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.9
+    },
+    {
+      "id": 464,
+      "sensor_id": 5,
+      "time": "2019-07-18 7:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.5
+    },
+    {
+      "id": 465,
+      "sensor_id": 5,
+      "time": "2019-07-18 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.3
+    },
+    {
+      "id": 466,
+      "sensor_id": 6,
+      "time": "2019-07-18 7:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.7
+    },
+    {
+      "id": 467,
+      "sensor_id": 4,
+      "time": "2019-07-18 8:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 468,
+      "sensor_id": 6,
+      "time": "2019-07-18 8:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.1
+    },
+    {
+      "id": 469,
+      "sensor_id": 5,
+      "time": "2019-07-18 8:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.8
+    },
+    {
+      "id": 470,
+      "sensor_id": 6,
+      "time": "2019-07-18 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.7
+    },
+    {
+      "id": 471,
+      "sensor_id": 6,
+      "time": "2019-07-18 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 472,
+      "sensor_id": 7,
+      "time": "2019-07-18 9:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.2
+    },
+    {
+      "id": 473,
+      "sensor_id": 4,
+      "time": "2019-07-18 9:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.8
+    },
+    {
+      "id": 474,
+      "sensor_id": 6,
+      "time": "2019-07-18 9:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.6
+    },
+    {
+      "id": 475,
+      "sensor_id": 6,
+      "time": "2019-07-18 10:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.6
+    },
+    {
+      "id": 476,
+      "sensor_id": 5,
+      "time": "2019-07-18 10:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.8
+    },
+    {
+      "id": 477,
+      "sensor_id": 6,
+      "time": "2019-07-18 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.8
+    },
+    {
+      "id": 478,
+      "sensor_id": 5,
+      "time": "2019-07-18 10:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.8
+    },
+    {
+      "id": 479,
+      "sensor_id": 6,
+      "time": "2019-07-18 11:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.5
+    },
+    {
+      "id": 480,
+      "sensor_id": 5,
+      "time": "2019-07-18 11:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.7
+    },
+    {
+      "id": 481,
+      "sensor_id": 7,
+      "time": "2019-07-18 11:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.9
+    },
+    {
+      "id": 482,
+      "sensor_id": 4,
+      "time": "2019-07-18 11:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.3
+    },
+    {
+      "id": 483,
+      "sensor_id": 5,
+      "time": "2019-07-18 12:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.9
+    },
+    {
+      "id": 484,
+      "sensor_id": 6,
+      "time": "2019-07-18 12:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.9
+    },
+    {
+      "id": 485,
+      "sensor_id": 7,
+      "time": "2019-07-18 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.2
+    },
+    {
+      "id": 486,
+      "sensor_id": 6,
+      "time": "2019-07-18 12:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.5
+    },
+    {
+      "id": 487,
+      "sensor_id": 4,
+      "time": "2019-07-18 13:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.9
+    },
+    {
+      "id": 488,
+      "sensor_id": 7,
+      "time": "2019-07-18 13:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.3
+    },
+    {
+      "id": 489,
+      "sensor_id": 6,
+      "time": "2019-07-18 13:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.9
+    },
+    {
+      "id": 490,
+      "sensor_id": 6,
+      "time": "2019-07-18 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.2
+    },
+    {
+      "id": 491,
+      "sensor_id": 6,
+      "time": "2019-07-18 14:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.6
+    },
+    {
+      "id": 492,
+      "sensor_id": 7,
+      "time": "2019-07-18 14:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.7
+    },
+    {
+      "id": 493,
+      "sensor_id": 7,
+      "time": "2019-07-18 14:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.6
+    },
+    {
+      "id": 494,
+      "sensor_id": 6,
+      "time": "2019-07-18 14:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.7
+    },
+    {
+      "id": 495,
+      "sensor_id": 4,
+      "time": "2019-07-18 15:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.9
+    },
+    {
+      "id": 496,
+      "sensor_id": 4,
+      "time": "2019-07-18 15:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.8
+    },
+    {
+      "id": 497,
+      "sensor_id": 5,
+      "time": "2019-07-18 15:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.9
+    },
+    {
+      "id": 498,
+      "sensor_id": 6,
+      "time": "2019-07-18 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71
+    },
+    {
+      "id": 499,
+      "sensor_id": 7,
+      "time": "2019-07-18 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.6
+    },
+    {
+      "id": 500,
+      "sensor_id": 4,
+      "time": "2019-07-18 16:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.8
+    },
+    {
+      "id": 501,
+      "sensor_id": 5,
+      "time": "2019-07-18 16:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.2
+    },
+    {
+      "id": 502,
+      "sensor_id": 7,
+      "time": "2019-07-18 16:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.5
+    },
+    {
+      "id": 503,
+      "sensor_id": 4,
+      "time": "2019-07-18 17:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.3
+    },
+    {
+      "id": 504,
+      "sensor_id": 7,
+      "time": "2019-07-18 17:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.3
+    },
+    {
+      "id": 505,
+      "sensor_id": 7,
+      "time": "2019-07-18 17:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.6
+    },
+    {
+      "id": 506,
+      "sensor_id": 5,
+      "time": "2019-07-18 17:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.7
+    },
+    {
+      "id": 507,
+      "sensor_id": 4,
+      "time": "2019-07-18 18:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.5
+    },
+    {
+      "id": 508,
+      "sensor_id": 4,
+      "time": "2019-07-18 18:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.5
+    },
+    {
+      "id": 509,
+      "sensor_id": 7,
+      "time": "2019-07-18 18:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.7
+    },
+    {
+      "id": 510,
+      "sensor_id": 6,
+      "time": "2019-07-18 18:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.6
+    },
+    {
+      "id": 511,
+      "sensor_id": 7,
+      "time": "2019-07-18 19:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.1
+    },
+    {
+      "id": 512,
+      "sensor_id": 6,
+      "time": "2019-07-18 19:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.5
+    },
+    {
+      "id": 513,
+      "sensor_id": 4,
+      "time": "2019-07-18 19:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.3
+    },
+    {
+      "id": 514,
+      "sensor_id": 5,
+      "time": "2019-07-18 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.7
+    },
+    {
+      "id": 515,
+      "sensor_id": 4,
+      "time": "2019-07-18 20:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.5
+    },
+    {
+      "id": 516,
+      "sensor_id": 7,
+      "time": "2019-07-18 20:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.1
+    },
+    {
+      "id": 517,
+      "sensor_id": 7,
+      "time": "2019-07-18 20:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.3
+    },
+    {
+      "id": 518,
+      "sensor_id": 7,
+      "time": "2019-07-18 20:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.6
+    },
+    {
+      "id": 519,
+      "sensor_id": 6,
+      "time": "2019-07-18 21:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.4
+    },
+    {
+      "id": 520,
+      "sensor_id": 7,
+      "time": "2019-07-18 21:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.7
+    },
+    {
+      "id": 521,
+      "sensor_id": 6,
+      "time": "2019-07-18 21:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.9
+    },
+    {
+      "id": 522,
+      "sensor_id": 7,
+      "time": "2019-07-18 21:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.7
+    },
+    {
+      "id": 523,
+      "sensor_id": 7,
+      "time": "2019-07-18 22:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.6
+    },
+    {
+      "id": 524,
+      "sensor_id": 5,
+      "time": "2019-07-18 22:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.1
+    },
+    {
+      "id": 525,
+      "sensor_id": 5,
+      "time": "2019-07-18 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.1
+    },
+    {
+      "id": 526,
+      "sensor_id": 7,
+      "time": "2019-07-18 22:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.6
+    },
+    {
+      "id": 527,
+      "sensor_id": 5,
+      "time": "2019-07-18 23:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60
+    },
+    {
+      "id": 528,
+      "sensor_id": 4,
+      "time": "2019-07-18 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.3
+    },
+    {
+      "id": 529,
+      "sensor_id": 5,
+      "time": "2019-07-18 23:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.4
+    },
+    {
+      "id": 530,
+      "sensor_id": 6,
+      "time": "2019-07-18 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.7
+    },
+    {
+      "id": 531,
+      "sensor_id": 5,
+      "time": "2019-07-19 0:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.6
+    },
+    {
+      "id": 532,
+      "sensor_id": 4,
+      "time": "2019-07-19 0:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.5
+    },
+    {
+      "id": 533,
+      "sensor_id": 5,
+      "time": "2019-07-19 0:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69
+    },
+    {
+      "id": 534,
+      "sensor_id": 6,
+      "time": "2019-07-19 0:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.8
+    },
+    {
+      "id": 535,
+      "sensor_id": 7,
+      "time": "2019-07-19 1:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.1
+    },
+    {
+      "id": 536,
+      "sensor_id": 7,
+      "time": "2019-07-19 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.9
+    },
+    {
+      "id": 537,
+      "sensor_id": 4,
+      "time": "2019-07-19 1:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.7
+    },
+    {
+      "id": 538,
+      "sensor_id": 6,
+      "time": "2019-07-19 1:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78
+    },
+    {
+      "id": 539,
+      "sensor_id": 6,
+      "time": "2019-07-19 2:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 80
+    },
+    {
+      "id": 540,
+      "sensor_id": 6,
+      "time": "2019-07-19 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.4
+    },
+    {
+      "id": 541,
+      "sensor_id": 4,
+      "time": "2019-07-19 2:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.1
+    },
+    {
+      "id": 542,
+      "sensor_id": 6,
+      "time": "2019-07-19 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65
+    },
+    {
+      "id": 543,
+      "sensor_id": 7,
+      "time": "2019-07-19 3:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.1
+    },
+    {
+      "id": 544,
+      "sensor_id": 7,
+      "time": "2019-07-19 3:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.4
+    },
+    {
+      "id": 545,
+      "sensor_id": 5,
+      "time": "2019-07-19 3:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.4
+    },
+    {
+      "id": 546,
+      "sensor_id": 5,
+      "time": "2019-07-19 3:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.7
+    },
+    {
+      "id": 547,
+      "sensor_id": 6,
+      "time": "2019-07-19 4:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.3
+    },
+    {
+      "id": 548,
+      "sensor_id": 7,
+      "time": "2019-07-19 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.5
+    },
+    {
+      "id": 549,
+      "sensor_id": 4,
+      "time": "2019-07-19 4:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.4
+    },
+    {
+      "id": 550,
+      "sensor_id": 6,
+      "time": "2019-07-19 4:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.2
+    },
+    {
+      "id": 551,
+      "sensor_id": 7,
+      "time": "2019-07-19 5:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.9
+    },
+    {
+      "id": 552,
+      "sensor_id": 5,
+      "time": "2019-07-19 5:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.1
+    },
+    {
+      "id": 553,
+      "sensor_id": 4,
+      "time": "2019-07-19 5:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74
+    },
+    {
+      "id": 554,
+      "sensor_id": 4,
+      "time": "2019-07-19 5:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.7
+    },
+    {
+      "id": 555,
+      "sensor_id": 5,
+      "time": "2019-07-19 6:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.2
+    },
+    {
+      "id": 556,
+      "sensor_id": 7,
+      "time": "2019-07-19 6:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.1
+    },
+    {
+      "id": 557,
+      "sensor_id": 7,
+      "time": "2019-07-19 6:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.8
+    },
+    {
+      "id": 558,
+      "sensor_id": 4,
+      "time": "2019-07-19 6:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.5
+    },
+    {
+      "id": 559,
+      "sensor_id": 7,
+      "time": "2019-07-19 7:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64
+    },
+    {
+      "id": 560,
+      "sensor_id": 4,
+      "time": "2019-07-19 7:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.7
+    },
+    {
+      "id": 561,
+      "sensor_id": 7,
+      "time": "2019-07-19 7:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.2
+    },
+    {
+      "id": 562,
+      "sensor_id": 7,
+      "time": "2019-07-19 7:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.7
+    },
+    {
+      "id": 563,
+      "sensor_id": 7,
+      "time": "2019-07-19 8:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.4
+    },
+    {
+      "id": 564,
+      "sensor_id": 5,
+      "time": "2019-07-19 8:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.3
+    },
+    {
+      "id": 565,
+      "sensor_id": 5,
+      "time": "2019-07-19 8:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54
+    },
+    {
+      "id": 566,
+      "sensor_id": 7,
+      "time": "2019-07-19 8:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.5
+    },
+    {
+      "id": 567,
+      "sensor_id": 5,
+      "time": "2019-07-19 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 568,
+      "sensor_id": 6,
+      "time": "2019-07-19 9:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.5
+    },
+    {
+      "id": 569,
+      "sensor_id": 6,
+      "time": "2019-07-19 9:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.3
+    },
+    {
+      "id": 570,
+      "sensor_id": 7,
+      "time": "2019-07-19 9:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 571,
+      "sensor_id": 4,
+      "time": "2019-07-19 10:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.6
+    },
+    {
+      "id": 572,
+      "sensor_id": 5,
+      "time": "2019-07-19 10:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.7
+    },
+    {
+      "id": 573,
+      "sensor_id": 4,
+      "time": "2019-07-19 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.7
+    },
+    {
+      "id": 574,
+      "sensor_id": 5,
+      "time": "2019-07-19 10:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.1
+    },
+    {
+      "id": 575,
+      "sensor_id": 6,
+      "time": "2019-07-19 11:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.5
+    },
+    {
+      "id": 576,
+      "sensor_id": 4,
+      "time": "2019-07-19 11:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.7
+    },
+    {
+      "id": 577,
+      "sensor_id": 4,
+      "time": "2019-07-19 11:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.2
+    },
+    {
+      "id": 578,
+      "sensor_id": 6,
+      "time": "2019-07-19 11:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.2
+    },
+    {
+      "id": 579,
+      "sensor_id": 7,
+      "time": "2019-07-19 12:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63
+    },
+    {
+      "id": 580,
+      "sensor_id": 4,
+      "time": "2019-07-19 12:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78
+    },
+    {
+      "id": 581,
+      "sensor_id": 6,
+      "time": "2019-07-19 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.5
+    },
+    {
+      "id": 582,
+      "sensor_id": 4,
+      "time": "2019-07-19 12:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.6
+    },
+    {
+      "id": 583,
+      "sensor_id": 4,
+      "time": "2019-07-19 13:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 584,
+      "sensor_id": 5,
+      "time": "2019-07-19 13:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.9
+    },
+    {
+      "id": 585,
+      "sensor_id": 6,
+      "time": "2019-07-19 13:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.9
+    },
+    {
+      "id": 586,
+      "sensor_id": 4,
+      "time": "2019-07-19 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.9
+    },
+    {
+      "id": 587,
+      "sensor_id": 5,
+      "time": "2019-07-19 14:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.4
+    },
+    {
+      "id": 588,
+      "sensor_id": 5,
+      "time": "2019-07-19 14:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.9
+    },
+    {
+      "id": 589,
+      "sensor_id": 5,
+      "time": "2019-07-19 14:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.1
+    },
+    {
+      "id": 590,
+      "sensor_id": 5,
+      "time": "2019-07-19 14:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.6
+    },
+    {
+      "id": 591,
+      "sensor_id": 4,
+      "time": "2019-07-19 15:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 592,
+      "sensor_id": 7,
+      "time": "2019-07-19 15:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.4
+    },
+    {
+      "id": 593,
+      "sensor_id": 7,
+      "time": "2019-07-19 15:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.7
+    },
+    {
+      "id": 594,
+      "sensor_id": 4,
+      "time": "2019-07-19 15:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.3
+    },
+    {
+      "id": 595,
+      "sensor_id": 4,
+      "time": "2019-07-19 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.8
+    },
+    {
+      "id": 596,
+      "sensor_id": 7,
+      "time": "2019-07-19 16:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.6
+    },
+    {
+      "id": 597,
+      "sensor_id": 7,
+      "time": "2019-07-19 16:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65
+    },
+    {
+      "id": 598,
+      "sensor_id": 5,
+      "time": "2019-07-19 16:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.7
+    },
+    {
+      "id": 599,
+      "sensor_id": 7,
+      "time": "2019-07-19 17:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.5
+    },
+    {
+      "id": 600,
+      "sensor_id": 4,
+      "time": "2019-07-19 17:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.7
+    },
+    {
+      "id": 601,
+      "sensor_id": 7,
+      "time": "2019-07-19 17:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.4
+    },
+    {
+      "id": 602,
+      "sensor_id": 7,
+      "time": "2019-07-19 17:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.7
+    },
+    {
+      "id": 603,
+      "sensor_id": 6,
+      "time": "2019-07-19 18:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.8
+    },
+    {
+      "id": 604,
+      "sensor_id": 5,
+      "time": "2019-07-19 18:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.7
+    },
+    {
+      "id": 605,
+      "sensor_id": 6,
+      "time": "2019-07-19 18:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.7
+    },
+    {
+      "id": 606,
+      "sensor_id": 6,
+      "time": "2019-07-19 18:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.8
+    },
+    {
+      "id": 607,
+      "sensor_id": 6,
+      "time": "2019-07-19 19:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.9
+    },
+    {
+      "id": 608,
+      "sensor_id": 5,
+      "time": "2019-07-19 19:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.3
+    },
+    {
+      "id": 609,
+      "sensor_id": 6,
+      "time": "2019-07-19 19:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.9
+    },
+    {
+      "id": 610,
+      "sensor_id": 4,
+      "time": "2019-07-19 19:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.6
+    },
+    {
+      "id": 611,
+      "sensor_id": 7,
+      "time": "2019-07-19 20:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.6
+    },
+    {
+      "id": 612,
+      "sensor_id": 7,
+      "time": "2019-07-19 20:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.7
+    },
+    {
+      "id": 613,
+      "sensor_id": 4,
+      "time": "2019-07-19 20:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.7
+    },
+    {
+      "id": 614,
+      "sensor_id": 5,
+      "time": "2019-07-19 20:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.1
+    },
+    {
+      "id": 615,
+      "sensor_id": 7,
+      "time": "2019-07-19 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.9
+    },
+    {
+      "id": 616,
+      "sensor_id": 5,
+      "time": "2019-07-19 21:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.6
+    },
+    {
+      "id": 617,
+      "sensor_id": 5,
+      "time": "2019-07-19 21:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.4
+    },
+    {
+      "id": 618,
+      "sensor_id": 5,
+      "time": "2019-07-19 21:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.2
+    },
+    {
+      "id": 619,
+      "sensor_id": 7,
+      "time": "2019-07-19 22:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.6
+    },
+    {
+      "id": 620,
+      "sensor_id": 5,
+      "time": "2019-07-19 22:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.6
+    },
+    {
+      "id": 621,
+      "sensor_id": 5,
+      "time": "2019-07-19 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79
+    },
+    {
+      "id": 622,
+      "sensor_id": 7,
+      "time": "2019-07-19 22:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 623,
+      "sensor_id": 4,
+      "time": "2019-07-19 23:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.7
+    },
+    {
+      "id": 624,
+      "sensor_id": 5,
+      "time": "2019-07-19 23:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.7
+    },
+    {
+      "id": 625,
+      "sensor_id": 5,
+      "time": "2019-07-19 23:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.9
+    },
+    {
+      "id": 626,
+      "sensor_id": 5,
+      "time": "2019-07-19 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.1
+    },
+    {
+      "id": 627,
+      "sensor_id": 6,
+      "time": "2019-07-20 0:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.5
+    },
+    {
+      "id": 628,
+      "sensor_id": 7,
+      "time": "2019-07-20 0:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.7
+    },
+    {
+      "id": 629,
+      "sensor_id": 4,
+      "time": "2019-07-20 0:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.5
+    },
+    {
+      "id": 630,
+      "sensor_id": 6,
+      "time": "2019-07-20 0:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.2
+    },
+    {
+      "id": 631,
+      "sensor_id": 6,
+      "time": "2019-07-20 1:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.5
+    },
+    {
+      "id": 632,
+      "sensor_id": 6,
+      "time": "2019-07-20 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.8
+    },
+    {
+      "id": 633,
+      "sensor_id": 6,
+      "time": "2019-07-20 1:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.4
+    },
+    {
+      "id": 634,
+      "sensor_id": 6,
+      "time": "2019-07-20 1:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.8
+    },
+    {
+      "id": 635,
+      "sensor_id": 7,
+      "time": "2019-07-20 2:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.6
+    },
+    {
+      "id": 636,
+      "sensor_id": 5,
+      "time": "2019-07-20 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.1
+    },
+    {
+      "id": 637,
+      "sensor_id": 5,
+      "time": "2019-07-20 2:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.8
+    },
+    {
+      "id": 638,
+      "sensor_id": 6,
+      "time": "2019-07-20 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.6
+    },
+    {
+      "id": 639,
+      "sensor_id": 5,
+      "time": "2019-07-20 3:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.4
+    },
+    {
+      "id": 640,
+      "sensor_id": 4,
+      "time": "2019-07-20 3:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61
+    },
+    {
+      "id": 641,
+      "sensor_id": 5,
+      "time": "2019-07-20 3:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73
+    },
+    {
+      "id": 642,
+      "sensor_id": 6,
+      "time": "2019-07-20 3:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.1
+    },
+    {
+      "id": 643,
+      "sensor_id": 6,
+      "time": "2019-07-20 4:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.7
+    },
+    {
+      "id": 644,
+      "sensor_id": 7,
+      "time": "2019-07-20 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.7
+    },
+    {
+      "id": 645,
+      "sensor_id": 7,
+      "time": "2019-07-20 4:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48
+    },
+    {
+      "id": 646,
+      "sensor_id": 6,
+      "time": "2019-07-20 4:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55
+    },
+    {
+      "id": 647,
+      "sensor_id": 5,
+      "time": "2019-07-20 5:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.6
+    },
+    {
+      "id": 648,
+      "sensor_id": 5,
+      "time": "2019-07-20 5:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.6
+    },
+    {
+      "id": 649,
+      "sensor_id": 6,
+      "time": "2019-07-20 5:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.7
+    },
+    {
+      "id": 650,
+      "sensor_id": 4,
+      "time": "2019-07-20 5:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.6
+    },
+    {
+      "id": 651,
+      "sensor_id": 5,
+      "time": "2019-07-20 6:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 652,
+      "sensor_id": 7,
+      "time": "2019-07-20 6:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64
+    },
+    {
+      "id": 653,
+      "sensor_id": 6,
+      "time": "2019-07-20 6:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.8
+    },
+    {
+      "id": 654,
+      "sensor_id": 4,
+      "time": "2019-07-20 6:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.9
+    },
+    {
+      "id": 655,
+      "sensor_id": 5,
+      "time": "2019-07-20 7:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.4
+    },
+    {
+      "id": 656,
+      "sensor_id": 4,
+      "time": "2019-07-20 7:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.4
+    },
+    {
+      "id": 657,
+      "sensor_id": 4,
+      "time": "2019-07-20 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.3
+    },
+    {
+      "id": 658,
+      "sensor_id": 6,
+      "time": "2019-07-20 7:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.3
+    },
+    {
+      "id": 659,
+      "sensor_id": 7,
+      "time": "2019-07-20 8:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.9
+    },
+    {
+      "id": 660,
+      "sensor_id": 6,
+      "time": "2019-07-20 8:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.8
+    },
+    {
+      "id": 661,
+      "sensor_id": 7,
+      "time": "2019-07-20 8:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.3
+    },
+    {
+      "id": 662,
+      "sensor_id": 6,
+      "time": "2019-07-20 8:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54
+    },
+    {
+      "id": 663,
+      "sensor_id": 6,
+      "time": "2019-07-20 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75
+    },
+    {
+      "id": 664,
+      "sensor_id": 4,
+      "time": "2019-07-20 9:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.6
+    },
+    {
+      "id": 665,
+      "sensor_id": 4,
+      "time": "2019-07-20 9:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.5
+    },
+    {
+      "id": 666,
+      "sensor_id": 4,
+      "time": "2019-07-20 9:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.7
+    },
+    {
+      "id": 667,
+      "sensor_id": 4,
+      "time": "2019-07-20 10:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.7
+    },
+    {
+      "id": 668,
+      "sensor_id": 5,
+      "time": "2019-07-20 10:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.8
+    },
+    {
+      "id": 669,
+      "sensor_id": 4,
+      "time": "2019-07-20 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.4
+    },
+    {
+      "id": 670,
+      "sensor_id": 5,
+      "time": "2019-07-20 10:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.8
+    },
+    {
+      "id": 671,
+      "sensor_id": 4,
+      "time": "2019-07-20 11:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.5
+    },
+    {
+      "id": 672,
+      "sensor_id": 4,
+      "time": "2019-07-20 11:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.9
+    },
+    {
+      "id": 673,
+      "sensor_id": 6,
+      "time": "2019-07-20 11:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68
+    },
+    {
+      "id": 674,
+      "sensor_id": 5,
+      "time": "2019-07-20 11:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.1
+    },
+    {
+      "id": 675,
+      "sensor_id": 7,
+      "time": "2019-07-20 12:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.1
+    },
+    {
+      "id": 676,
+      "sensor_id": 6,
+      "time": "2019-07-20 12:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.6
+    },
+    {
+      "id": 677,
+      "sensor_id": 5,
+      "time": "2019-07-20 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.4
+    },
+    {
+      "id": 678,
+      "sensor_id": 5,
+      "time": "2019-07-20 12:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.4
+    },
+    {
+      "id": 679,
+      "sensor_id": 4,
+      "time": "2019-07-20 13:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.9
+    },
+    {
+      "id": 680,
+      "sensor_id": 7,
+      "time": "2019-07-20 13:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.9
+    },
+    {
+      "id": 681,
+      "sensor_id": 7,
+      "time": "2019-07-20 13:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.2
+    },
+    {
+      "id": 682,
+      "sensor_id": 5,
+      "time": "2019-07-20 13:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.8
+    },
+    {
+      "id": 683,
+      "sensor_id": 4,
+      "time": "2019-07-20 14:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.3
+    },
+    {
+      "id": 684,
+      "sensor_id": 4,
+      "time": "2019-07-20 14:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.6
+    },
+    {
+      "id": 685,
+      "sensor_id": 5,
+      "time": "2019-07-20 14:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.3
+    },
+    {
+      "id": 686,
+      "sensor_id": 7,
+      "time": "2019-07-20 14:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.6
+    },
+    {
+      "id": 687,
+      "sensor_id": 5,
+      "time": "2019-07-20 15:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.3
+    },
+    {
+      "id": 688,
+      "sensor_id": 4,
+      "time": "2019-07-20 15:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.5
+    },
+    {
+      "id": 689,
+      "sensor_id": 6,
+      "time": "2019-07-20 15:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68
+    },
+    {
+      "id": 690,
+      "sensor_id": 5,
+      "time": "2019-07-20 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.1
+    },
+    {
+      "id": 691,
+      "sensor_id": 7,
+      "time": "2019-07-20 16:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.3
+    },
+    {
+      "id": 692,
+      "sensor_id": 6,
+      "time": "2019-07-20 16:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.5
+    },
+    {
+      "id": 693,
+      "sensor_id": 5,
+      "time": "2019-07-20 16:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.1
+    },
+    {
+      "id": 694,
+      "sensor_id": 6,
+      "time": "2019-07-20 16:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.1
+    },
+    {
+      "id": 695,
+      "sensor_id": 5,
+      "time": "2019-07-20 17:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.7
+    },
+    {
+      "id": 696,
+      "sensor_id": 6,
+      "time": "2019-07-20 17:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.1
+    },
+    {
+      "id": 697,
+      "sensor_id": 7,
+      "time": "2019-07-20 17:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.5
+    },
+    {
+      "id": 698,
+      "sensor_id": 6,
+      "time": "2019-07-20 17:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.4
+    },
+    {
+      "id": 699,
+      "sensor_id": 7,
+      "time": "2019-07-20 18:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.9
+    },
+    {
+      "id": 700,
+      "sensor_id": 7,
+      "time": "2019-07-20 18:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.2
+    },
+    {
+      "id": 701,
+      "sensor_id": 6,
+      "time": "2019-07-20 18:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68
+    },
+    {
+      "id": 702,
+      "sensor_id": 5,
+      "time": "2019-07-20 18:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.1
+    },
+    {
+      "id": 703,
+      "sensor_id": 6,
+      "time": "2019-07-20 19:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.3
+    },
+    {
+      "id": 704,
+      "sensor_id": 6,
+      "time": "2019-07-20 19:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.8
+    },
+    {
+      "id": 705,
+      "sensor_id": 6,
+      "time": "2019-07-20 19:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.7
+    },
+    {
+      "id": 706,
+      "sensor_id": 6,
+      "time": "2019-07-20 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77
+    },
+    {
+      "id": 707,
+      "sensor_id": 5,
+      "time": "2019-07-20 20:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.8
+    },
+    {
+      "id": 708,
+      "sensor_id": 4,
+      "time": "2019-07-20 20:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.3
+    },
+    {
+      "id": 709,
+      "sensor_id": 6,
+      "time": "2019-07-20 20:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.7
+    },
+    {
+      "id": 710,
+      "sensor_id": 4,
+      "time": "2019-07-20 20:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.4
+    },
+    {
+      "id": 711,
+      "sensor_id": 7,
+      "time": "2019-07-20 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.5
+    },
+    {
+      "id": 712,
+      "sensor_id": 7,
+      "time": "2019-07-20 21:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.8
+    },
+    {
+      "id": 713,
+      "sensor_id": 4,
+      "time": "2019-07-20 21:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.7
+    },
+    {
+      "id": 714,
+      "sensor_id": 5,
+      "time": "2019-07-20 21:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.1
+    },
+    {
+      "id": 715,
+      "sensor_id": 4,
+      "time": "2019-07-20 22:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68
+    },
+    {
+      "id": 716,
+      "sensor_id": 4,
+      "time": "2019-07-20 22:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.8
+    },
+    {
+      "id": 717,
+      "sensor_id": 4,
+      "time": "2019-07-20 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.9
+    },
+    {
+      "id": 718,
+      "sensor_id": 7,
+      "time": "2019-07-20 22:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 70
+    },
+    {
+      "id": 719,
+      "sensor_id": 6,
+      "time": "2019-07-20 23:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.3
+    },
+    {
+      "id": 720,
+      "sensor_id": 4,
+      "time": "2019-07-20 23:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.8
+    },
+    {
+      "id": 721,
+      "sensor_id": 4,
+      "time": "2019-07-20 23:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.1
+    },
+    {
+      "id": 722,
+      "sensor_id": 5,
+      "time": "2019-07-20 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.8
+    },
+    {
+      "id": 723,
+      "sensor_id": 7,
+      "time": "2019-07-21 0:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.8
+    },
+    {
+      "id": 724,
+      "sensor_id": 4,
+      "time": "2019-07-21 0:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.2
+    },
+    {
+      "id": 725,
+      "sensor_id": 4,
+      "time": "2019-07-21 0:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.9
+    },
+    {
+      "id": 726,
+      "sensor_id": 7,
+      "time": "2019-07-21 0:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72
+    },
+    {
+      "id": 727,
+      "sensor_id": 6,
+      "time": "2019-07-21 1:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.3
+    },
+    {
+      "id": 728,
+      "sensor_id": 6,
+      "time": "2019-07-21 1:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.2
+    },
+    {
+      "id": 729,
+      "sensor_id": 5,
+      "time": "2019-07-21 1:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.6
+    },
+    {
+      "id": 730,
+      "sensor_id": 6,
+      "time": "2019-07-21 1:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.8
+    },
+    {
+      "id": 731,
+      "sensor_id": 4,
+      "time": "2019-07-21 2:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.1
+    },
+    {
+      "id": 732,
+      "sensor_id": 7,
+      "time": "2019-07-21 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.8
+    },
+    {
+      "id": 733,
+      "sensor_id": 7,
+      "time": "2019-07-21 2:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.3
+    },
+    {
+      "id": 734,
+      "sensor_id": 7,
+      "time": "2019-07-21 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.9
+    },
+    {
+      "id": 735,
+      "sensor_id": 5,
+      "time": "2019-07-21 3:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.6
+    },
+    {
+      "id": 736,
+      "sensor_id": 4,
+      "time": "2019-07-21 3:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.2
+    },
+    {
+      "id": 737,
+      "sensor_id": 6,
+      "time": "2019-07-21 3:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.4
+    },
+    {
+      "id": 738,
+      "sensor_id": 7,
+      "time": "2019-07-21 3:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.1
+    },
+    {
+      "id": 739,
+      "sensor_id": 5,
+      "time": "2019-07-21 4:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65
+    },
+    {
+      "id": 740,
+      "sensor_id": 5,
+      "time": "2019-07-21 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.8
+    },
+    {
+      "id": 741,
+      "sensor_id": 7,
+      "time": "2019-07-21 4:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.4
+    },
+    {
+      "id": 742,
+      "sensor_id": 7,
+      "time": "2019-07-21 4:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50
+    },
+    {
+      "id": 743,
+      "sensor_id": 6,
+      "time": "2019-07-21 5:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.4
+    },
+    {
+      "id": 744,
+      "sensor_id": 6,
+      "time": "2019-07-21 5:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.1
+    },
+    {
+      "id": 745,
+      "sensor_id": 7,
+      "time": "2019-07-21 5:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.6
+    },
+    {
+      "id": 746,
+      "sensor_id": 5,
+      "time": "2019-07-21 5:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.3
+    },
+    {
+      "id": 747,
+      "sensor_id": 5,
+      "time": "2019-07-21 6:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.9
+    },
+    {
+      "id": 748,
+      "sensor_id": 6,
+      "time": "2019-07-21 6:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.2
+    },
+    {
+      "id": 749,
+      "sensor_id": 5,
+      "time": "2019-07-21 6:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.3
+    },
+    {
+      "id": 750,
+      "sensor_id": 4,
+      "time": "2019-07-21 6:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.5
+    },
+    {
+      "id": 751,
+      "sensor_id": 6,
+      "time": "2019-07-21 7:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.2
+    },
+    {
+      "id": 752,
+      "sensor_id": 6,
+      "time": "2019-07-21 7:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62
+    },
+    {
+      "id": 753,
+      "sensor_id": 7,
+      "time": "2019-07-21 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.1
+    },
+    {
+      "id": 754,
+      "sensor_id": 4,
+      "time": "2019-07-21 7:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.7
+    },
+    {
+      "id": 755,
+      "sensor_id": 5,
+      "time": "2019-07-21 8:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74
+    },
+    {
+      "id": 756,
+      "sensor_id": 7,
+      "time": "2019-07-21 8:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 757,
+      "sensor_id": 7,
+      "time": "2019-07-21 8:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62
+    },
+    {
+      "id": 758,
+      "sensor_id": 6,
+      "time": "2019-07-21 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.4
+    },
+    {
+      "id": 759,
+      "sensor_id": 6,
+      "time": "2019-07-21 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.7
+    },
+    {
+      "id": 760,
+      "sensor_id": 7,
+      "time": "2019-07-21 9:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.2
+    },
+    {
+      "id": 761,
+      "sensor_id": 5,
+      "time": "2019-07-21 9:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.3
+    },
+    {
+      "id": 762,
+      "sensor_id": 4,
+      "time": "2019-07-21 9:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.6
+    },
+    {
+      "id": 763,
+      "sensor_id": 6,
+      "time": "2019-07-21 10:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.7
+    },
+    {
+      "id": 764,
+      "sensor_id": 5,
+      "time": "2019-07-21 10:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.4
+    },
+    {
+      "id": 765,
+      "sensor_id": 5,
+      "time": "2019-07-21 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.7
+    },
+    {
+      "id": 766,
+      "sensor_id": 6,
+      "time": "2019-07-21 10:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.7
+    },
+    {
+      "id": 767,
+      "sensor_id": 7,
+      "time": "2019-07-21 11:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.2
+    },
+    {
+      "id": 768,
+      "sensor_id": 4,
+      "time": "2019-07-21 11:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.3
+    },
+    {
+      "id": 769,
+      "sensor_id": 6,
+      "time": "2019-07-21 11:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.3
+    },
+    {
+      "id": 770,
+      "sensor_id": 6,
+      "time": "2019-07-21 11:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.2
+    },
+    {
+      "id": 771,
+      "sensor_id": 6,
+      "time": "2019-07-21 12:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.4
+    },
+    {
+      "id": 772,
+      "sensor_id": 6,
+      "time": "2019-07-21 12:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.5
+    },
+    {
+      "id": 773,
+      "sensor_id": 7,
+      "time": "2019-07-21 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.1
+    },
+    {
+      "id": 774,
+      "sensor_id": 6,
+      "time": "2019-07-21 12:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.9
+    },
+    {
+      "id": 775,
+      "sensor_id": 5,
+      "time": "2019-07-21 13:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76
+    },
+    {
+      "id": 776,
+      "sensor_id": 4,
+      "time": "2019-07-21 13:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.4
+    },
+    {
+      "id": 777,
+      "sensor_id": 6,
+      "time": "2019-07-21 13:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76
+    },
+    {
+      "id": 778,
+      "sensor_id": 6,
+      "time": "2019-07-21 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.2
+    },
+    {
+      "id": 779,
+      "sensor_id": 6,
+      "time": "2019-07-21 14:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.4
+    },
+    {
+      "id": 780,
+      "sensor_id": 4,
+      "time": "2019-07-21 14:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.4
+    },
+    {
+      "id": 781,
+      "sensor_id": 4,
+      "time": "2019-07-21 14:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.7
+    },
+    {
+      "id": 782,
+      "sensor_id": 7,
+      "time": "2019-07-21 14:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.3
+    },
+    {
+      "id": 783,
+      "sensor_id": 5,
+      "time": "2019-07-21 15:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.1
+    },
+    {
+      "id": 784,
+      "sensor_id": 6,
+      "time": "2019-07-21 15:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.4
+    },
+    {
+      "id": 785,
+      "sensor_id": 7,
+      "time": "2019-07-21 15:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.4
+    },
+    {
+      "id": 786,
+      "sensor_id": 6,
+      "time": "2019-07-21 15:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.2
+    },
+    {
+      "id": 787,
+      "sensor_id": 4,
+      "time": "2019-07-21 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.1
+    },
+    {
+      "id": 788,
+      "sensor_id": 6,
+      "time": "2019-07-21 16:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.1
+    },
+    {
+      "id": 789,
+      "sensor_id": 6,
+      "time": "2019-07-21 16:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64.9
+    },
+    {
+      "id": 790,
+      "sensor_id": 7,
+      "time": "2019-07-21 16:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.1
+    },
+    {
+      "id": 791,
+      "sensor_id": 6,
+      "time": "2019-07-21 17:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.4
+    },
+    {
+      "id": 792,
+      "sensor_id": 4,
+      "time": "2019-07-21 17:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.1
+    },
+    {
+      "id": 793,
+      "sensor_id": 7,
+      "time": "2019-07-21 17:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.2
+    },
+    {
+      "id": 794,
+      "sensor_id": 6,
+      "time": "2019-07-21 17:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.5
+    },
+    {
+      "id": 795,
+      "sensor_id": 7,
+      "time": "2019-07-21 18:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79
+    },
+    {
+      "id": 796,
+      "sensor_id": 4,
+      "time": "2019-07-21 18:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.7
+    },
+    {
+      "id": 797,
+      "sensor_id": 5,
+      "time": "2019-07-21 18:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.2
+    },
+    {
+      "id": 798,
+      "sensor_id": 4,
+      "time": "2019-07-21 18:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.2
+    },
+    {
+      "id": 799,
+      "sensor_id": 6,
+      "time": "2019-07-21 19:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.1
+    },
+    {
+      "id": 800,
+      "sensor_id": 7,
+      "time": "2019-07-21 19:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.4
+    },
+    {
+      "id": 801,
+      "sensor_id": 7,
+      "time": "2019-07-21 19:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.1
+    },
+    {
+      "id": 802,
+      "sensor_id": 4,
+      "time": "2019-07-21 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.3
+    },
+    {
+      "id": 803,
+      "sensor_id": 4,
+      "time": "2019-07-21 20:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.2
+    },
+    {
+      "id": 804,
+      "sensor_id": 7,
+      "time": "2019-07-21 20:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.5
+    },
+    {
+      "id": 805,
+      "sensor_id": 4,
+      "time": "2019-07-21 20:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.3
+    },
+    {
+      "id": 806,
+      "sensor_id": 4,
+      "time": "2019-07-21 20:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68
+    },
+    {
+      "id": 807,
+      "sensor_id": 4,
+      "time": "2019-07-21 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.9
+    },
+    {
+      "id": 808,
+      "sensor_id": 4,
+      "time": "2019-07-21 21:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.7
+    },
+    {
+      "id": 809,
+      "sensor_id": 6,
+      "time": "2019-07-21 21:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.6
+    },
+    {
+      "id": 810,
+      "sensor_id": 4,
+      "time": "2019-07-21 21:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.5
+    },
+    {
+      "id": 811,
+      "sensor_id": 4,
+      "time": "2019-07-21 22:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.3
+    },
+    {
+      "id": 812,
+      "sensor_id": 4,
+      "time": "2019-07-21 22:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65
+    },
+    {
+      "id": 813,
+      "sensor_id": 6,
+      "time": "2019-07-21 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.9
+    },
+    {
+      "id": 814,
+      "sensor_id": 7,
+      "time": "2019-07-21 22:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.5
+    },
+    {
+      "id": 815,
+      "sensor_id": 7,
+      "time": "2019-07-21 23:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59
+    },
+    {
+      "id": 816,
+      "sensor_id": 6,
+      "time": "2019-07-21 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.5
+    },
+    {
+      "id": 817,
+      "sensor_id": 4,
+      "time": "2019-07-21 23:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.8
+    },
+    {
+      "id": 818,
+      "sensor_id": 4,
+      "time": "2019-07-21 23:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.1
+    },
+    {
+      "id": 819,
+      "sensor_id": 7,
+      "time": "2019-07-22 0:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.4
+    },
+    {
+      "id": 820,
+      "sensor_id": 4,
+      "time": "2019-07-22 0:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.1
+    },
+    {
+      "id": 821,
+      "sensor_id": 6,
+      "time": "2019-07-22 0:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70
+    },
+    {
+      "id": 822,
+      "sensor_id": 5,
+      "time": "2019-07-22 0:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.1
+    },
+    {
+      "id": 823,
+      "sensor_id": 4,
+      "time": "2019-07-22 1:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.4
+    },
+    {
+      "id": 824,
+      "sensor_id": 5,
+      "time": "2019-07-22 1:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.5
+    },
+    {
+      "id": 825,
+      "sensor_id": 7,
+      "time": "2019-07-22 1:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.9
+    },
+    {
+      "id": 826,
+      "sensor_id": 7,
+      "time": "2019-07-22 1:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.5
+    },
+    {
+      "id": 827,
+      "sensor_id": 4,
+      "time": "2019-07-22 2:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.3
+    },
+    {
+      "id": 828,
+      "sensor_id": 4,
+      "time": "2019-07-22 2:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.1
+    },
+    {
+      "id": 829,
+      "sensor_id": 6,
+      "time": "2019-07-22 2:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.5
+    },
+    {
+      "id": 830,
+      "sensor_id": 7,
+      "time": "2019-07-22 2:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.2
+    },
+    {
+      "id": 831,
+      "sensor_id": 6,
+      "time": "2019-07-22 3:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.2
+    },
+    {
+      "id": 832,
+      "sensor_id": 7,
+      "time": "2019-07-22 3:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.8
+    },
+    {
+      "id": 833,
+      "sensor_id": 6,
+      "time": "2019-07-22 3:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.3
+    },
+    {
+      "id": 834,
+      "sensor_id": 7,
+      "time": "2019-07-22 3:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.7
+    },
+    {
+      "id": 835,
+      "sensor_id": 6,
+      "time": "2019-07-22 4:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57
+    },
+    {
+      "id": 836,
+      "sensor_id": 5,
+      "time": "2019-07-22 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.5
+    },
+    {
+      "id": 837,
+      "sensor_id": 7,
+      "time": "2019-07-22 4:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78
+    },
+    {
+      "id": 838,
+      "sensor_id": 6,
+      "time": "2019-07-22 4:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48
+    },
+    {
+      "id": 839,
+      "sensor_id": 5,
+      "time": "2019-07-22 5:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71
+    },
+    {
+      "id": 840,
+      "sensor_id": 6,
+      "time": "2019-07-22 5:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.4
+    },
+    {
+      "id": 841,
+      "sensor_id": 4,
+      "time": "2019-07-22 5:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64
+    },
+    {
+      "id": 842,
+      "sensor_id": 6,
+      "time": "2019-07-22 5:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.1
+    },
+    {
+      "id": 843,
+      "sensor_id": 7,
+      "time": "2019-07-22 6:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74
+    },
+    {
+      "id": 844,
+      "sensor_id": 6,
+      "time": "2019-07-22 6:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.6
+    },
+    {
+      "id": 845,
+      "sensor_id": 6,
+      "time": "2019-07-22 6:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48.9
+    },
+    {
+      "id": 846,
+      "sensor_id": 4,
+      "time": "2019-07-22 6:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.5
+    },
+    {
+      "id": 847,
+      "sensor_id": 4,
+      "time": "2019-07-22 7:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.7
+    },
+    {
+      "id": 848,
+      "sensor_id": 6,
+      "time": "2019-07-22 7:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.3
+    },
+    {
+      "id": 849,
+      "sensor_id": 6,
+      "time": "2019-07-22 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.1
+    },
+    {
+      "id": 850,
+      "sensor_id": 4,
+      "time": "2019-07-22 7:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.2
+    },
+    {
+      "id": 851,
+      "sensor_id": 4,
+      "time": "2019-07-22 8:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.6
+    },
+    {
+      "id": 852,
+      "sensor_id": 4,
+      "time": "2019-07-22 8:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.8
+    },
+    {
+      "id": 853,
+      "sensor_id": 5,
+      "time": "2019-07-22 8:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.6
+    },
+    {
+      "id": 854,
+      "sensor_id": 5,
+      "time": "2019-07-22 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.6
+    },
+    {
+      "id": 855,
+      "sensor_id": 5,
+      "time": "2019-07-22 9:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.5
+    },
+    {
+      "id": 856,
+      "sensor_id": 5,
+      "time": "2019-07-22 9:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.3
+    },
+    {
+      "id": 857,
+      "sensor_id": 4,
+      "time": "2019-07-22 9:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.6
+    },
+    {
+      "id": 858,
+      "sensor_id": 4,
+      "time": "2019-07-22 9:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.4
+    },
+    {
+      "id": 859,
+      "sensor_id": 7,
+      "time": "2019-07-22 10:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70
+    },
+    {
+      "id": 860,
+      "sensor_id": 7,
+      "time": "2019-07-22 10:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.2
+    },
+    {
+      "id": 861,
+      "sensor_id": 5,
+      "time": "2019-07-22 10:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59
+    },
+    {
+      "id": 862,
+      "sensor_id": 4,
+      "time": "2019-07-22 10:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.6
+    },
+    {
+      "id": 863,
+      "sensor_id": 5,
+      "time": "2019-07-22 11:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.9
+    },
+    {
+      "id": 864,
+      "sensor_id": 7,
+      "time": "2019-07-22 11:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.2
+    },
+    {
+      "id": 865,
+      "sensor_id": 7,
+      "time": "2019-07-22 11:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.8
+    },
+    {
+      "id": 866,
+      "sensor_id": 7,
+      "time": "2019-07-22 11:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.1
+    },
+    {
+      "id": 867,
+      "sensor_id": 7,
+      "time": "2019-07-22 12:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.4
+    },
+    {
+      "id": 868,
+      "sensor_id": 4,
+      "time": "2019-07-22 12:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.4
+    },
+    {
+      "id": 869,
+      "sensor_id": 7,
+      "time": "2019-07-22 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.9
+    },
+    {
+      "id": 870,
+      "sensor_id": 5,
+      "time": "2019-07-22 12:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.5
+    },
+    {
+      "id": 871,
+      "sensor_id": 6,
+      "time": "2019-07-22 13:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.5
+    },
+    {
+      "id": 872,
+      "sensor_id": 5,
+      "time": "2019-07-22 13:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.3
+    },
+    {
+      "id": 873,
+      "sensor_id": 6,
+      "time": "2019-07-22 13:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.7
+    },
+    {
+      "id": 874,
+      "sensor_id": 6,
+      "time": "2019-07-22 13:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.5
+    },
+    {
+      "id": 875,
+      "sensor_id": 6,
+      "time": "2019-07-22 14:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.7
+    },
+    {
+      "id": 876,
+      "sensor_id": 5,
+      "time": "2019-07-22 14:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.9
+    },
+    {
+      "id": 877,
+      "sensor_id": 6,
+      "time": "2019-07-22 14:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.5
+    },
+    {
+      "id": 878,
+      "sensor_id": 5,
+      "time": "2019-07-22 14:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.4
+    },
+    {
+      "id": 879,
+      "sensor_id": 5,
+      "time": "2019-07-22 15:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72
+    },
+    {
+      "id": 880,
+      "sensor_id": 4,
+      "time": "2019-07-22 15:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.7
+    },
+    {
+      "id": 881,
+      "sensor_id": 7,
+      "time": "2019-07-22 15:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.4
+    },
+    {
+      "id": 882,
+      "sensor_id": 6,
+      "time": "2019-07-22 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70
+    },
+    {
+      "id": 883,
+      "sensor_id": 7,
+      "time": "2019-07-22 16:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.1
+    },
+    {
+      "id": 884,
+      "sensor_id": 7,
+      "time": "2019-07-22 16:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78
+    },
+    {
+      "id": 885,
+      "sensor_id": 6,
+      "time": "2019-07-22 16:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.9
+    },
+    {
+      "id": 886,
+      "sensor_id": 5,
+      "time": "2019-07-22 16:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.5
+    },
+    {
+      "id": 887,
+      "sensor_id": 4,
+      "time": "2019-07-22 17:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 57.9
+    },
+    {
+      "id": 888,
+      "sensor_id": 5,
+      "time": "2019-07-22 17:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.6
+    },
+    {
+      "id": 889,
+      "sensor_id": 6,
+      "time": "2019-07-22 17:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.3
+    },
+    {
+      "id": 890,
+      "sensor_id": 5,
+      "time": "2019-07-22 17:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.4
+    },
+    {
+      "id": 891,
+      "sensor_id": 6,
+      "time": "2019-07-22 18:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.2
+    },
+    {
+      "id": 892,
+      "sensor_id": 7,
+      "time": "2019-07-22 18:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 48
+    },
+    {
+      "id": 893,
+      "sensor_id": 6,
+      "time": "2019-07-22 18:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.1
+    },
+    {
+      "id": 894,
+      "sensor_id": 7,
+      "time": "2019-07-22 18:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.4
+    },
+    {
+      "id": 895,
+      "sensor_id": 7,
+      "time": "2019-07-22 19:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.4
+    },
+    {
+      "id": 896,
+      "sensor_id": 5,
+      "time": "2019-07-22 19:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 897,
+      "sensor_id": 7,
+      "time": "2019-07-22 19:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59
+    },
+    {
+      "id": 898,
+      "sensor_id": 5,
+      "time": "2019-07-22 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.1
+    },
+    {
+      "id": 899,
+      "sensor_id": 4,
+      "time": "2019-07-22 20:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.2
+    },
+    {
+      "id": 900,
+      "sensor_id": 6,
+      "time": "2019-07-22 20:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.3
+    },
+    {
+      "id": 901,
+      "sensor_id": 4,
+      "time": "2019-07-22 20:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.5
+    },
+    {
+      "id": 902,
+      "sensor_id": 5,
+      "time": "2019-07-22 20:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.5
+    },
+    {
+      "id": 903,
+      "sensor_id": 5,
+      "time": "2019-07-22 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.9
+    },
+    {
+      "id": 904,
+      "sensor_id": 6,
+      "time": "2019-07-22 21:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 905,
+      "sensor_id": 6,
+      "time": "2019-07-22 21:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.5
+    },
+    {
+      "id": 906,
+      "sensor_id": 5,
+      "time": "2019-07-22 21:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.8
+    },
+    {
+      "id": 907,
+      "sensor_id": 5,
+      "time": "2019-07-22 22:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.2
+    },
+    {
+      "id": 908,
+      "sensor_id": 7,
+      "time": "2019-07-22 22:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.9
+    },
+    {
+      "id": 909,
+      "sensor_id": 5,
+      "time": "2019-07-22 22:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73
+    },
+    {
+      "id": 910,
+      "sensor_id": 6,
+      "time": "2019-07-22 22:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.2
+    },
+    {
+      "id": 911,
+      "sensor_id": 5,
+      "time": "2019-07-22 23:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.5
+    },
+    {
+      "id": 912,
+      "sensor_id": 7,
+      "time": "2019-07-22 23:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.2
+    },
+    {
+      "id": 913,
+      "sensor_id": 4,
+      "time": "2019-07-22 23:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 54.8
+    },
+    {
+      "id": 914,
+      "sensor_id": 4,
+      "time": "2019-07-22 23:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.8
+    },
+    {
+      "id": 915,
+      "sensor_id": 5,
+      "time": "2019-07-23 0:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.2
+    },
+    {
+      "id": 916,
+      "sensor_id": 4,
+      "time": "2019-07-23 0:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 71.1
+    },
+    {
+      "id": 917,
+      "sensor_id": 7,
+      "time": "2019-07-23 0:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.2
+    },
+    {
+      "id": 918,
+      "sensor_id": 6,
+      "time": "2019-07-23 0:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.5
+    },
+    {
+      "id": 919,
+      "sensor_id": 7,
+      "time": "2019-07-23 1:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.8
+    },
+    {
+      "id": 920,
+      "sensor_id": 7,
+      "time": "2019-07-23 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.6
+    },
+    {
+      "id": 921,
+      "sensor_id": 4,
+      "time": "2019-07-23 1:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.4
+    },
+    {
+      "id": 922,
+      "sensor_id": 6,
+      "time": "2019-07-23 1:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.6
+    },
+    {
+      "id": 923,
+      "sensor_id": 5,
+      "time": "2019-07-23 2:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.8
+    },
+    {
+      "id": 924,
+      "sensor_id": 7,
+      "time": "2019-07-23 2:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.9
+    },
+    {
+      "id": 925,
+      "sensor_id": 6,
+      "time": "2019-07-23 2:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.4
+    },
+    {
+      "id": 926,
+      "sensor_id": 5,
+      "time": "2019-07-23 2:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.3
+    },
+    {
+      "id": 927,
+      "sensor_id": 7,
+      "time": "2019-07-23 3:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.8
+    },
+    {
+      "id": 928,
+      "sensor_id": 4,
+      "time": "2019-07-23 3:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.2
+    },
+    {
+      "id": 929,
+      "sensor_id": 6,
+      "time": "2019-07-23 3:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65
+    },
+    {
+      "id": 930,
+      "sensor_id": 4,
+      "time": "2019-07-23 3:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65
+    },
+    {
+      "id": 931,
+      "sensor_id": 4,
+      "time": "2019-07-23 4:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.5
+    },
+    {
+      "id": 932,
+      "sensor_id": 7,
+      "time": "2019-07-23 4:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.4
+    },
+    {
+      "id": 933,
+      "sensor_id": 7,
+      "time": "2019-07-23 4:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.3
+    },
+    {
+      "id": 934,
+      "sensor_id": 7,
+      "time": "2019-07-23 4:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.5
+    },
+    {
+      "id": 935,
+      "sensor_id": 5,
+      "time": "2019-07-23 5:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 49.5
+    },
+    {
+      "id": 936,
+      "sensor_id": 6,
+      "time": "2019-07-23 5:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.3
+    },
+    {
+      "id": 937,
+      "sensor_id": 5,
+      "time": "2019-07-23 5:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.5
+    },
+    {
+      "id": 938,
+      "sensor_id": 7,
+      "time": "2019-07-23 5:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.3
+    },
+    {
+      "id": 939,
+      "sensor_id": 5,
+      "time": "2019-07-23 6:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.3
+    },
+    {
+      "id": 940,
+      "sensor_id": 6,
+      "time": "2019-07-23 6:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 50.1
+    },
+    {
+      "id": 941,
+      "sensor_id": 7,
+      "time": "2019-07-23 6:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73
+    },
+    {
+      "id": 942,
+      "sensor_id": 4,
+      "time": "2019-07-23 6:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.7
+    },
+    {
+      "id": 943,
+      "sensor_id": 4,
+      "time": "2019-07-23 7:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.3
+    },
+    {
+      "id": 944,
+      "sensor_id": 6,
+      "time": "2019-07-23 7:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56
+    },
+    {
+      "id": 945,
+      "sensor_id": 7,
+      "time": "2019-07-23 7:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.5
+    },
+    {
+      "id": 946,
+      "sensor_id": 4,
+      "time": "2019-07-23 7:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.8
+    },
+    {
+      "id": 947,
+      "sensor_id": 5,
+      "time": "2019-07-23 8:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.1
+    },
+    {
+      "id": 948,
+      "sensor_id": 5,
+      "time": "2019-07-23 8:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.6
+    },
+    {
+      "id": 949,
+      "sensor_id": 4,
+      "time": "2019-07-23 8:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.8
+    },
+    {
+      "id": 950,
+      "sensor_id": 6,
+      "time": "2019-07-23 8:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.8
+    },
+    {
+      "id": 951,
+      "sensor_id": 4,
+      "time": "2019-07-23 9:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.9
+    },
+    {
+      "id": 952,
+      "sensor_id": 4,
+      "time": "2019-07-23 9:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.3
+    },
+    {
+      "id": 953,
+      "sensor_id": 7,
+      "time": "2019-07-23 9:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 75.2
+    },
+    {
+      "id": 954,
+      "sensor_id": 7,
+      "time": "2019-07-23 9:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.3
+    },
+    {
+      "id": 955,
+      "sensor_id": 7,
+      "time": "2019-07-23 10:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.1
+    },
+    {
+      "id": 956,
+      "sensor_id": 7,
+      "time": "2019-07-23 10:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 79.5
+    },
+    {
+      "id": 957,
+      "sensor_id": 6,
+      "time": "2019-07-23 10:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.6
+    },
+    {
+      "id": 958,
+      "sensor_id": 5,
+      "time": "2019-07-23 10:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.7
+    },
+    {
+      "id": 959,
+      "sensor_id": 6,
+      "time": "2019-07-23 11:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.6
+    },
+    {
+      "id": 960,
+      "sensor_id": 7,
+      "time": "2019-07-23 11:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.6
+    },
+    {
+      "id": 961,
+      "sensor_id": 7,
+      "time": "2019-07-23 11:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.6
+    },
+    {
+      "id": 962,
+      "sensor_id": 6,
+      "time": "2019-07-23 11:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.4
+    },
+    {
+      "id": 963,
+      "sensor_id": 7,
+      "time": "2019-07-23 12:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.7
+    },
+    {
+      "id": 964,
+      "sensor_id": 4,
+      "time": "2019-07-23 12:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.5
+    },
+    {
+      "id": 965,
+      "sensor_id": 6,
+      "time": "2019-07-23 12:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.1
+    },
+    {
+      "id": 966,
+      "sensor_id": 5,
+      "time": "2019-07-23 12:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.7
+    },
+    {
+      "id": 967,
+      "sensor_id": 5,
+      "time": "2019-07-23 13:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66
+    },
+    {
+      "id": 968,
+      "sensor_id": 5,
+      "time": "2019-07-23 13:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.7
+    },
+    {
+      "id": 969,
+      "sensor_id": 7,
+      "time": "2019-07-23 13:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.2
+    },
+    {
+      "id": 970,
+      "sensor_id": 5,
+      "time": "2019-07-23 13:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 68.3
+    },
+    {
+      "id": 971,
+      "sensor_id": 4,
+      "time": "2019-07-23 14:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.7
+    },
+    {
+      "id": 972,
+      "sensor_id": 4,
+      "time": "2019-07-23 14:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.3
+    },
+    {
+      "id": 973,
+      "sensor_id": 7,
+      "time": "2019-07-23 14:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.1
+    },
+    {
+      "id": 974,
+      "sensor_id": 7,
+      "time": "2019-07-23 14:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 60.5
+    },
+    {
+      "id": 975,
+      "sensor_id": 6,
+      "time": "2019-07-23 15:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 72.5
+    },
+    {
+      "id": 976,
+      "sensor_id": 4,
+      "time": "2019-07-23 15:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.7
+    },
+    {
+      "id": 977,
+      "sensor_id": 5,
+      "time": "2019-07-23 15:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 64
+    },
+    {
+      "id": 978,
+      "sensor_id": 6,
+      "time": "2019-07-23 15:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.8
+    },
+    {
+      "id": 979,
+      "sensor_id": 6,
+      "time": "2019-07-23 16:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 76.7
+    },
+    {
+      "id": 980,
+      "sensor_id": 7,
+      "time": "2019-07-23 16:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.2
+    },
+    {
+      "id": 981,
+      "sensor_id": 4,
+      "time": "2019-07-23 16:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.3
+    },
+    {
+      "id": 982,
+      "sensor_id": 6,
+      "time": "2019-07-23 16:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.5
+    },
+    {
+      "id": 983,
+      "sensor_id": 4,
+      "time": "2019-07-23 17:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 78.2
+    },
+    {
+      "id": 984,
+      "sensor_id": 5,
+      "time": "2019-07-23 17:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 56.7
+    },
+    {
+      "id": 985,
+      "sensor_id": 5,
+      "time": "2019-07-23 17:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 62.2
+    },
+    {
+      "id": 986,
+      "sensor_id": 7,
+      "time": "2019-07-23 17:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.6
+    },
+    {
+      "id": 987,
+      "sensor_id": 6,
+      "time": "2019-07-23 18:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 73.8
+    },
+    {
+      "id": 988,
+      "sensor_id": 5,
+      "time": "2019-07-23 18:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.5
+    },
+    {
+      "id": 989,
+      "sensor_id": 4,
+      "time": "2019-07-23 18:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 55.8
+    },
+    {
+      "id": 990,
+      "sensor_id": 6,
+      "time": "2019-07-23 18:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 991,
+      "sensor_id": 7,
+      "time": "2019-07-23 19:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 80
+    },
+    {
+      "id": 992,
+      "sensor_id": 5,
+      "time": "2019-07-23 19:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.5
+    },
+    {
+      "id": 993,
+      "sensor_id": 6,
+      "time": "2019-07-23 19:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.9
+    },
+    {
+      "id": 994,
+      "sensor_id": 6,
+      "time": "2019-07-23 19:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.7
+    },
+    {
+      "id": 995,
+      "sensor_id": 5,
+      "time": "2019-07-23 20:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 65.3
+    },
+    {
+      "id": 996,
+      "sensor_id": 6,
+      "time": "2019-07-23 20:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 59.8
+    },
+    {
+      "id": 997,
+      "sensor_id": 7,
+      "time": "2019-07-23 20:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 66.8
+    },
+    {
+      "id": 998,
+      "sensor_id": 6,
+      "time": "2019-07-23 20:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52
+    },
+    {
+      "id": 999,
+      "sensor_id": 5,
+      "time": "2019-07-23 21:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 68.2
+    },
+    {
+      "id": 1000,
+      "sensor_id": 6,
+      "time": "2019-07-23 21:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 53.8
+    },
+    {
+      "id": 1001,
+      "sensor_id": 5,
+      "time": "2019-07-23 21:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 69.3
+    },
+    {
+      "id": 1002,
+      "sensor_id": 5,
+      "time": "2019-07-23 21:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.6
+    },
+    {
+      "id": 1003,
+      "sensor_id": 7,
+      "time": "2019-07-23 22:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77
+    },
+    {
+      "id": 1004,
+      "sensor_id": 4,
+      "time": "2019-07-23 22:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 66.1
+    },
+    {
+      "id": 1005,
+      "sensor_id": 4,
+      "time": "2019-07-23 22:34",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 58.7
+    },
+    {
+      "id": 1006,
+      "sensor_id": 6,
+      "time": "2019-07-23 22:49",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 63.2
+    },
+    {
+      "id": 1007,
+      "sensor_id": 6,
+      "time": "2019-07-23 23:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 67.9
+    },
+    {
+      "id": 1008,
+      "sensor_id": 5,
+      "time": "2019-07-23 23:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 61.6
+    },
+    {
+      "id": 1009,
+      "sensor_id": 7,
+      "time": "2019-07-23 23:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 70.6
+    },
+    {
+      "id": 1010,
+      "sensor_id": 6,
+      "time": "2019-07-23 23:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.9
+    },
+    {
+      "id": 1011,
+      "sensor_id": 6,
+      "time": "2019-07-24 0:04",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 52.9
+    },
+    {
+      "id": 1012,
+      "sensor_id": 4,
+      "time": "2019-07-24 0:19",
+      "type_code": 2,
+      "data_type": "humidity",
+      "value": 51.2
+    },
+    {
+      "id": 1013,
+      "sensor_id": 5,
+      "time": "2019-07-24 0:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.8
+    },
+    {
+      "id": 1014,
+      "sensor_id": 6,
+      "time": "2019-07-24 0:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 65.8
+    },
+    {
+      "id": 1015,
+      "sensor_id": 6,
+      "time": "2019-07-24 1:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 74.1
+    },
+    {
+      "id": 1016,
+      "sensor_id": 7,
+      "time": "2019-07-24 1:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.9
+    },
+    {
+      "id": 1017,
+      "sensor_id": 5,
+      "time": "2019-07-24 1:34",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.5
+    },
+    {
+      "id": 1018,
+      "sensor_id": 7,
+      "time": "2019-07-24 1:49",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 77.2
+    },
+    {
+      "id": 1019,
+      "sensor_id": 7,
+      "time": "2019-07-24 2:04",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 69.9
+    },
+    {
+      "id": 1020,
+      "sensor_id": 7,
+      "time": "2019-07-24 2:19",
+      "type_code": 1,
+      "data_type": "temperature",
+      "value": 67.2
+    }
+  ]

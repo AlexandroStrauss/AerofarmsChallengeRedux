@@ -1,0 +1,15 @@
+{
+    "loading": "Carregando...",
+    "temperature": "Temperatura",
+    "humidity": "Umidade",
+    "error": "Ah, que pena :(",
+    "sensor": "Detetor",
+    "rooms": {
+      "both": "Ambas Salas",
+      "grow": "Sala de Gerer",
+      "harvest": "Sala de Colheita"
+    },
+    "dataTypeDisplayed": "Mostrando dados de <1> {{val}} </1> para...",
+    "showingData": "Mostrando dados de",
+    "dataFor": "para..."
+  }

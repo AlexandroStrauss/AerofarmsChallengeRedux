@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#button {
+  background-color: white;
+  border: 1px solid #8bc540;
+  outline: none;
+  cursor: pointer;
+}
+
+#button:hover {
+  background-color: #baed77;
+  /* color: white; */
+}
+
+#button-selected, #button-selected-multi {
+  border: 1px solid #8bc540;
+  background-color: #8bc540;
+  color: white;
+  outline: none;
+}
+
+#button-selected-multi {
+  cursor: pointer;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #f9fafc;
+  min-height: 120vh;
+}
+
+/* @media (min-width: 1280px) {
+  .main-container {
+    flex-direction: row;
+  }
+} */
+
+/* @media (max-width: 49vw) {
+  .main-container {
+    flex-direction: column;
+  }
+} */
+
+
+#graph-title {
+  font-size: 36px;
+  text-align: center;
+  margin: 0 0 20px;
+}
+
+div[id^="button-container"] {
+  text-align: center;
+}
+
+#button-container div {
+  margin: 0px 10px;
+}
+
+#component-container {
+  width: 88vw;
+  height: 100vh;
+  /* background: rgb(248,247,255);
+background: radial-gradient(circle, rgba(248,247,255,1) 0%, rgba(73,209,32,1) 35%, rgba(0,212,255,1) 100%); */
+
+  /* padding: 5px;
+  border: 5px solid #8bc540; */
+}
+
+.sidebar, .sidebar-collapsed {
+  background-color: white;
+  color: black;
+  height: 120vh;
+  /* position: absolute; */
+  left: 0px;
+  border-right: 1px solid #cccccc;
+
+}
+
+.sidebar, .sidebar-collapsed ul li { 
+  /* display: flex; */
+  /* flex-direction: column;
+  justify-content: space-between; */
+}
+
+
+
+.sidebar {
+  width: 150px;
+  position: absolute; 
+  left: 0px;
+
+}
+
+.sidebar-collapsed {
+  width: 60px; 
+  position: absolute;
+  left: 0px;
+}
+
+.sidebar-hidden {
+  display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .sidebar, .sidebar-collapsed {
+    display: none;
+  }
+}
+
+div.dropdown-menu.show {
+  position: absolute;
+  left: 250px;
+}
+
+.button-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 0px;
+}
+
+.button-adjust {
+  position: relative;
+  left: 50px;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  text-align: center;
+}
+
+.transButton, .transButtonHighlighted {
+  width: 100%;
+  margin-bottom: 10px; 
+  text-align: left;
+}
+
+.transButtonHighlighted.btn.btn-primary {
+  background-color: tomato;
+  border-color: tomato;
+}
